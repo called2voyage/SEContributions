@@ -21,4 +21,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>space.meta.stackexchange.com</td><td>58</td>
 </tr>
+<tr>
+  <td>astronomy.stackexchange.com</td><td>6</td>
+</tr>
+<tr>
+  <td>astronomy.meta.stackexchange.com</td><td>6</td>
+</tr>
 </table>
