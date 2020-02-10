@@ -33,4 +33,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>history.meta.stackexchange.com</td><td>2732</td>
 </tr>
+<tr>
+  <td>skeptics.stackexchange.com</td><td>14622</td>
+</tr>
+<tr>
+  <td>skeptics.meta.stackexchange.com</td><td>14622</td>
+</tr>
 </table>
