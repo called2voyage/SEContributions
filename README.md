@@ -11,3 +11,9 @@ The original posts can be found at https://*stack_exchange_site*/q/*post_id* for
 https://*stack_exchange_site*/a/*post_id* for answers. These posts are by default licensed under the Creative Commons CC BY-SA 4.0
 license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3.0. These posts have been shared here under these
 terms, for context.
+
+---
+Site|User ID
+space.stackexchange.com|58
+space.meta.stackexchange.com|58
+---
