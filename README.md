@@ -12,8 +12,11 @@ https://*stack_exchange_site*/a/*post_id* for answers. These posts are by defaul
 license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3.0. These posts have been shared here under these
 terms, for context.
 
----
-Site|User ID
-space.stackexchange.com|58
-space.meta.stackexchange.com|58
----
+<table>
+<tr>
+  <th>Site</th><th>User ID</th>
+</tr>
+<tr>
+  <td>space.stackexchange.com</td><td>58</td>
+  <td>space.meta.stackexchange.com</td><td>58</td>
+</table>
