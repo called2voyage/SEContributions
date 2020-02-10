@@ -1,7 +1,7 @@
 # SEContributions
 called2voyage's Stack Exchange contributions extracted from the latest data dump
 
-All posts with *OwnerUserId* of 58 were authored by called2voyage and provided to Stack Exchange under the Creative Commons
+All posts with *OwnerUserId* matching the table below were authored by called2voyage and provided to Stack Exchange under the Creative Commons
 CC BY-SA 4.0 license, the text of which is included in the LICENSE file. In some cases edits to these posts may have been
 made by other users under the same license or (for edits prior to September 5, 2019) under the
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) license.
