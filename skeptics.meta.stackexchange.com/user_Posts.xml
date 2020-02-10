@@ -1,0 +1,178 @@
+<?xml version="1.0" ?><posts>
+  <row AnswerCount="2" Body="&lt;p&gt;I am not a mental health expert. I am not qualified to diagnose people. If I was, I would never do it based on a short piece of text on a web-site.&lt;/p&gt;
+&lt;p&gt;But, because I am not, I can freely say: We occasionally get some posts here by people who appear to be mentally unwell. They need more than an empirical answer to their irrational question; they need proper help that we cannot provide.&lt;/p&gt;
+&lt;p&gt;In particular, I think, by the nature of this site, we attract people suffering  &lt;a href=&quot;http://en.wikipedia.org/wiki/Paranoia&quot; rel=&quot;nofollow noreferrer&quot;&gt;(clinical) paranoia&lt;/a&gt;. (My inexpert guess is we get a disproportionate number of people on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Autism_Spectrum&quot; rel=&quot;nofollow noreferrer&quot;&gt;spectrum&lt;/a&gt; too, but I suspect that leads to misunderstandings in comments, rather than a risk of self-harm.)&lt;/p&gt;
+&lt;p&gt;I think our responses are, sometimes, inappropriate for that situation. I think we, as a community, tend to treat others as rational human beings who are merely sorely misguided, and would happily change their ignorant minds if only we could get them to understand these! simple! facts! Such robust replies may not be appropriate ways of addressing, for example, delusions.&lt;/p&gt;
+&lt;p&gt;I wonder if we need a better understanding and practice for identifying, and responding, to potential mental health sufferers, in a way that is not destructive or risky, but at the same time, is not condescending, doesn't invoke stigma, doesn't harm robust discussion and doesn't get abused as an ad hominem attack to dismiss genuine claims. &lt;/p&gt;
+&lt;p&gt;We also need to understand that, neither the mods nor the general community are trained for this. We don't have a duty of care (&lt;a href=&quot;http://en.wikipedia.org/wiki/IANAL&quot; rel=&quot;nofollow noreferrer&quot;&gt;IANAL&lt;/a&gt;, either!) and we cannot offer to help people through troubling times, but it seem unethical to simply ignore danger signals, and snub them.&lt;/p&gt;
+&lt;p&gt;That said, I feel rather ill-prepared to propose such a policy. Any suggestions? &lt;/p&gt;
+&lt;p&gt;I asked around, and here are some similar questions on other sites, that we can crib from:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://softwareengineering.meta.stackexchange.com/questions/6256/do-we-have-any-responsibility-to-take-any-action-if-someone-says-theyre-thinkin&quot;&gt;Programmers.SE&lt;/a&gt;, with an answer from Stack Exchange's @Shog9.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://christianity.meta.stackexchange.com/questions/1588/but-cant-i-just-say-one-thing&quot;&gt;Christianity.SE&lt;/a&gt; - likely to need some work to match our secular audience, but still useful.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.reddit.com/r/suicidewatch&quot; rel=&quot;nofollow noreferrer&quot;&gt;Reddit Suicide Watch&lt;/a&gt; has some resources. In particular, their &lt;a href=&quot;http://www.reddit.com/r/SWResources/comments/igh87/concerned_but_dont_know_what_to_say_here_are_some/&quot; rel=&quot;nofollow noreferrer&quot;&gt;talking tips&lt;/a&gt; have some advice on what not to do that I may have been getting wrong until now - e.g. I have suggested they &quot;should&quot; consult a GP, rather than offering it as an option.&lt;/p&gt;
+&lt;h2&gt;Heading&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Some clarifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am not proposing we try to diagnose people, especially from their writing styles. I am not proposing to reject questions from people who are handling their illness.&lt;/li&gt;
+&lt;li&gt;I am not proposing we &quot;engage&quot; with people - e.g. invite them into chat rooms to discuss their problems.&lt;/li&gt;
+&lt;li&gt;I am not even proposing we take an heroic measures - e.g. trying to discover their identity, and report them to medical authorities.&lt;/li&gt;
+&lt;li&gt;I understand the way we respond could possibly make things worse. But we already &lt;em&gt;do&lt;/em&gt; respond. This post is about trying to make that response thoughtful rather than ill-considered. &lt;/li&gt;
+&lt;li&gt;I anticipate this will be limited to having a template we use when
+closing the question, and a policy to delete certain types of
+comments and answers in those situations.&lt;/li&gt;
+&lt;li&gt;We have never, to my knowledge, received a post that has suggested direct, imminent danger. However, a few times per year, we get people talking about having problems with their thoughts, and seeking advice. I don't want to get into specifics but some examples include: a someone with (self-described) depression worried about having a breakdown and asking whether particular self-treatment might work; someone with delusions about a celebrity supernaturally communicating with them who posted that they were desperate for an answer when their question was closed. These people are looking in the wrong place for help.&lt;/li&gt;
+&lt;/ul&gt;
+" CommentCount="6" CreationDate="2014-01-14T06:09:52.713" FavoriteCount="1" Id="2650" LastActivityDate="2014-01-17T06:31:11.470" LastEditDate="2017-03-16T17:33:38.697" LastEditorUserId="-1" OwnerUserId="23" PostTypeId="1" Score="10" Tags="&lt;discussion&gt;" Title="How should we deal with users showing signs of mental illness?" ViewCount="240"/>
+  <row Body="&lt;p&gt;Does it seem like the user might endanger their life or others? Then I think it might be appropriate to follow Shog9's advice on Programmers that you linked to.&lt;/p&gt;
+&lt;p&gt;For questions that specifically request advice that we cannot give, you are correct that a clear comment is in order when we close the posts. Perhaps something like this:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Thank you for contributing to the Skeptics Stack Exchange. We appreciate your search for knowledge and/or advice in this area, but unfortunately this is something that we are not adequately equipped to handle on this site. If you need help in XYZ areas, here are XYZ resources that we &lt;em&gt;can&lt;/em&gt; direct you too. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Otherwise, I don't feel like it would be appropriate to take any action. We should respect their privacy and treat the question or answer like we would any other post.&lt;/p&gt;
+" CommentCount="2" CreationDate="2014-01-14T18:17:25.777" Id="2651" LastActivityDate="2014-01-16T14:39:05.523" LastEditDate="2014-01-16T14:39:05.523" LastEditorUserId="14622" OwnerUserId="14622" ParentId="2650" PostTypeId="2" Score="3"/>
+  <row AnswerCount="7" Body="&lt;p&gt;It's 2016 now, and we've &lt;a href=&quot;https://meta.stackexchange.com/questions/272563/were-standardizing-the-sidebar-width-at-300px-on-all-sites&quot;&gt;made some changes to the sidebar size&lt;/a&gt;. As such, we can now restart the Community Promotion Ads for 2016!&lt;/p&gt;
+&lt;p&gt;Keep in mind, we have updated some of the guidelines compared to previously - the changes are marked in bold in the Image Requirements section.&lt;/p&gt;
+&lt;h3&gt;What are Community Promotion Ads?&lt;/h3&gt;
+&lt;p&gt;Community Promotion Ads are community-vetted advertisements that will show up on the main site, in the right sidebar. The purpose of this question is the vetting process. Images of the advertisements are provided, and community voting will enable the advertisements to be shown.&lt;/p&gt;
+&lt;h3&gt;Why do we have Community Promotion Ads?&lt;/h3&gt;
+&lt;p&gt;This is a method for the community to control what gets promoted to visitors on the site. For example, you might promote the following things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;interesting reads and resources for skeptics&lt;/li&gt;
+&lt;li&gt;the site's twitter account&lt;/li&gt;
+&lt;li&gt;cool events or conferences&lt;/li&gt;
+&lt;li&gt;anything else your community would genuinely be interested in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is for future visitors to find out about &lt;em&gt;the stuff your community deems important&lt;/em&gt;. This also serves as a way to promote information and resources that are &lt;em&gt;relevant to your own community's interests&lt;/em&gt;, both for those already in the community and those yet to join. &lt;/p&gt;
+&lt;h3&gt;Why do we reset the ads every year?&lt;/h3&gt;
+&lt;p&gt;Some services will maintain usefulness over the years, while other things will wane to allow for new faces to show up. Resetting the ads every year helps accommodate this, and allows old ads that have served their purpose to be cycled out for fresher ads for newer things. This helps keep the material in the ads relevant to not just the subject matter of the community, but to the current status of the community. We reset the ads once a year, every December.&lt;/p&gt;
+&lt;p&gt;The community promotion ads have no restrictions against reposting an ad from a previous cycle. If a particular service or ad is very valuable to the community and will continue to be so, it is a good idea to repost it. It may be helpful to give it a new face in the process, so as to prevent the imagery of the ad from getting stale after a year of exposure.&lt;/p&gt;
+&lt;h3&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;The answers you post to this question &lt;em&gt;must&lt;/em&gt; conform to the following rules, or they will be ignored. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;All answers should be in the exact form of:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[![Tagline to show on mouseover][1]][2]
+   [1]: http://image-url
+   [2]: http://clickthrough-url 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Please &lt;strong&gt;do not add anything else to the body of the post&lt;/strong&gt;. If you want to discuss something, do it in the comments.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The question must always be tagged with the magic &lt;a href=&quot;/questions/tagged/community-ads&quot; class=&quot;post-tag moderator-tag&quot; title=&quot;show questions tagged &amp;#39;community-ads&amp;#39;&quot; rel=&quot;tag&quot;&gt;community-ads&lt;/a&gt; tag. In addition to enabling the functionality of the advertisements, this tag also pre-fills the answer form with the above required form.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Image requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The image that you create must be &lt;strong&gt;300 x 250 pixels&lt;/strong&gt;, or double that if high DPI.&lt;/li&gt;
+&lt;li&gt;Must be hosted through our standard image uploader (imgur)&lt;/li&gt;
+&lt;li&gt;Must be GIF or PNG&lt;/li&gt;
+&lt;li&gt;No animated GIFs&lt;/li&gt;
+&lt;li&gt;Absolute limit on file size of &lt;strong&gt;150 KB&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;If the background of the image is white or partially white, there must be a 1px border (2px if high DPI) surrounding it.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Score Threshold&lt;/h3&gt;
+&lt;p&gt;There is a &lt;strong&gt;minimum score threshold&lt;/strong&gt; an answer must meet (currently &lt;strong&gt;6&lt;/strong&gt;) before it will be shown on the main site.&lt;/p&gt;
+&lt;p&gt;You can check out the ads that have met the threshold with basic click stats &lt;a href=&quot;https://skeptics.meta.stackexchange.com/ads/display/3498&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+" CommentCount="1" CreationDate="2016-01-15T03:08:23.990" Id="3498" LastActivityDate="2016-06-03T15:08:16.747" LastEditDate="2017-03-20T10:29:45.910" LastEditorUserId="-1" OwnerUserId="4331" PostTypeId="1" Score="6" Tags="&lt;discussion&gt;&lt;community-ads&gt;" Title="Community Promotion Ads - 2016" ViewCount="115"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;http://space.stackexchange.com&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/GWTVN.png&quot; alt=&quot;Space Exploration Stack Exchange&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+" CommentCount="2" CreationDate="2016-05-26T14:39:12.003" Id="3634" LastActivityDate="2016-05-26T14:39:12.003" OwnerUserId="14622" ParentId="3498" PostTypeId="2" Score="3"/>
+  <row AnswerCount="2" Body="&lt;p&gt;If Donald Trump makes a claim it is notable.  If my grandfather does, it is not.  Unless my grandfather is Donald Trump (he was not).&lt;/p&gt;
+&lt;p&gt;How notable does an individual need to be before we accept that person making a claim by itself to be sufficient to consider the claim to be notable?&lt;/p&gt;
+" CommentCount="1" CreationDate="2017-04-06T13:14:11.810" Id="3935" LastActivityDate="2017-04-06T13:36:07.793" OwnerUserId="5337" PostTypeId="1" Score="1" Tags="&lt;discussion&gt;&lt;notability&gt;" Title="When is a single person's claim notable?" ViewCount="76"/>
+  <row Body="&lt;p&gt;If we're going to assume that what they say is noteworthy anyway (may not always be the case, see the discussion Oddthinking linked), then I would say that otherwise the determining factor is how visible the claim is, because that is a good proxy for whether it is widely believed. Right off the bat, a Trump speech might start with around 47 million US viewers, and over time the viewership grows as people around the world watch. I assume your grandfather does not have such an audience.&lt;/p&gt;
+&lt;p&gt;Similarly, if J.K. Rowling posts something on Twitter, she will have a wide audience.&lt;/p&gt;
+&lt;p&gt;If the claim you are intending to evaluate has an audience of less than 1000 people, then I think it is safe to say it is not notable. Why 1000? The smallest country (aside from the Vatican City) has a population just over 1000. I think a claim that might be believed by a whole country (even if that country is Tokelau, a dependency of New Zealand) is worthy of consideration, thus notable.&lt;/p&gt;
+" CommentCount="0" CreationDate="2017-04-06T13:36:07.793" Id="3937" LastActivityDate="2017-04-06T13:36:07.793" OwnerUserId="14622" ParentId="3935" PostTypeId="2" Score="2"/>
+  <row AcceptedAnswerId="3996" AnswerCount="6" Body="&lt;p&gt;Re: &lt;a href=&quot;https://skeptics.stackexchange.com/questions/38735/can-you-achieve-immortality-through-yoga&quot;&gt;Can you achieve immortality through yoga?&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;One approach to answering this question is to use the statistical evidence regarding the Maximum Reported Age at Death (MRAD): &lt;a href=&quot;https://www.nature.com/nature/journal/v538/n7624/full/nature19793.html#ref14&quot; rel=&quot;nofollow noreferrer&quot;&gt;https://www.nature.com/nature/journal/v538/n7624/full/nature19793.html#ref14&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Nature paper says:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;To approximate the absolute limit of human lifespan, we modelled the MRAD as a Poisson distribution; we found that the probability of an MRAD exceeding 125 in any given year is less than 1 in 10,000.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This means, that even if that probability held constant for all of human (genus &lt;em&gt;Homo&lt;/em&gt;) history (roughly 3 million years), there may be no more than 300 instances of anyone exceeding an age of 125 (assuming that multiple instances of exceeding this age in one year cannot occur, which I think is a reasonable assumption in this case). What are the problems with this approach to answering this question? How can we address them?&lt;/p&gt;
+&lt;p&gt;Obviously, it would be better to rely on the biological evidence:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;What could be the biological causes of this limit to human lifespan? The idea that ageing is a purposeful, programmed series of events that evolved under the direct force of natural selection to cause death has now been all but discredited. Instead, what appears to be a ‘natural limit’ is an inadvertent byproduct of fixed genetic programs for early life events, such as development, growth and reproduction. Limits to the duration of life could well be determined by a set of species-specific, longevity-assurance systems encoded in the genome that counteract these inadvertent byproducts, which are likely to include inherent imperfections in transferring genetic information into cellular function.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, it is difficult to find an estimation of lifespan based on these factors, if such an estimation exists.&lt;/p&gt;
+&lt;p&gt;We could also say that an extraordinary claim that yoga would circumvent such factors requires extraordinary evidence, but while this might be a good basis to ignore the claim, it does not refute it.&lt;/p&gt;
+" CommentCount="5" CreationDate="2017-06-21T17:48:45.307" FavoriteCount="1" Id="3991" LastActivityDate="2018-01-25T13:27:35.343" LastEditDate="2017-06-21T18:01:11.293" LastEditorUserId="14622" OwnerUserId="14622" PostTypeId="1" Score="4" Tags="&lt;discussion&gt;&lt;answers&gt;&lt;specific-question&gt;" Title="Answering &quot;Can you achieve immortality through yoga?&quot;" ViewCount="721"/>
+  <row Body="&lt;p&gt;I suggest taking the following approach:
+Take a look at high level yoga masters and see if they live any longer than expected. If they don't, or if they do but not that much longer than most other people, then it can be argued that extrapolating from there, reaching 500 would not be possible (or extremely unlikely).&lt;/p&gt;
+" CommentCount="13" CreationDate="2017-06-21T18:22:27.723" Id="3992" LastActivityDate="2017-06-21T18:22:27.723" OwnerUserId="36308" ParentId="3991" PostTypeId="2" Score="1"/>
+  <row Body="&lt;p&gt;&lt;strong&gt;As currently presented, this is inescapably a question about faith.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And according to the faq, that makes it off-topic here.&lt;/p&gt;
+&lt;p&gt;In more detail because people seem to disagree:&lt;/p&gt;
+&lt;p&gt;While it's possible to practice yoga non-religiously, the claim is entirely religious.  The claim makes no assertion that any non-religious practitioners believe that non-religious yoga will grant this massive life extension.&lt;/p&gt;
+&lt;p&gt;The claim references a commentary on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Bhagavata_Purana&quot; rel=&quot;nofollow noreferrer&quot;&gt;Bhagavata Purana&lt;/a&gt;, which:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;is a revered text in Vaishnavism, a Hindu tradition that reveres
+  Vishnu &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(according to Constance Jones and James Ryan (2007), Encyclopedia of Hinduism, Infobase, ISBN 978-0816054589, page 474).&lt;/p&gt;
+&lt;p&gt;The commentary is by &lt;a href=&quot;https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada&quot; rel=&quot;nofollow noreferrer&quot;&gt;Swami Prabhupada&lt;/a&gt;, who:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;was a Gaudiya Vaishnava spiritual teacher (guru) and the founder preceptor (acharya) of the Hare Krishna Movement.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;At the core of the support for the claim, we find this:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The explanation of this longevity is given here by the word yoga-siddha&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Siddha_Yoga&quot; rel=&quot;nofollow noreferrer&quot;&gt;Yoga Siddha&lt;/a&gt; is:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;a spiritual path founded by Muktananda (1908–1982). The present spiritual head of the Siddha Yoga path is Gurumayi Chidvilasananda.
+  A fundamental characteristic of the Siddha Yoga path is shaktipat-diksha, literally translated as “initiation by descent of divine power,” &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is exactly parallel to a hypothetical claim about a (historical) Jesus walking on water.  We could assert that many people believe this, but all of my support for that would be based on religion.   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It's off topic for this site.&lt;/strong&gt;&lt;/p&gt;
+" CommentCount="28" CreationDate="2017-06-21T18:42:15.620" Id="3993" LastActivityDate="2017-06-21T21:01:02.250" LastEditDate="2017-06-21T21:01:02.250" LastEditorDisplayName="user34418" OwnerDisplayName="user34418" ParentId="3991" PostTypeId="2" Score="3"/>
+  <row Body="&lt;p&gt;I'm thinking about posting an answer whose summary would be along these lines:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The current scientific approximate limit of human lifespan is 125 years. It is believed that this is a hard limit due to [known biological factors discussed above]. In the absence of any evidence of a mechanism by which yoga might correct those factors and the absence of any verifiable instances of an individual living longer than 122, it would be reasonable to assume that yoga cannot achieve this effect.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Would an answer like this be acceptable?&lt;/p&gt;
+" CommentCount="6" CreationDate="2017-06-21T18:57:48.057" Id="3994" LastActivityDate="2017-06-21T18:57:48.057" OwnerUserId="14622" ParentId="3991" PostTypeId="2" Score="1"/>
+  <row Body="&lt;p&gt;I don't believe this is strongly answerable. If we assume that the &quot;verified oldest people&quot; are the actual oldest people (or at least close) then that raises the question of why there isn't anyone using yoga to live for hundreds of years, but it's a vague/weak enough claim that it's difficult to disprove completely. How does one differentiate between &quot;It can't be done.&quot; and &quot;No one currently living has the knack of it.&quot;?  I dont' see anywhere in the claim the idea that this ability is anything other than quite rare, or that there's an intermediate step of &quot;not good enough to make it to 500, but you might hit 150 or so&quot;.  The claim seems to be a straightforward &quot;If you reach this perfect state, lifespan limits are no longer a thign for you.&quot;&lt;/p&gt;
+&lt;p&gt;Worth noting that the evidence presented in the initial claim was in the form of statements of faith.  &quot;Sometimes we hear from the Vedic literature that some personalities from the Vedic age, such as Vyāsadeva and Aśvatthāmā, are still living. Here we understand that Maru is also still living. &quot;  I'm not convinced that there's a strong non-faith-based claim here to address.  Is there any evidence that anyone holds this as a significant claim outside of a religious practice?&lt;/p&gt;
+" CommentCount="4" CreationDate="2017-06-21T20:20:49.710" Id="3995" LastActivityDate="2017-06-21T20:20:49.710" OwnerUserId="39459" ParentId="3991" PostTypeId="2" Score="3"/>
+  <row Body="&lt;p&gt;I understand the claims to be these:&lt;/p&gt;
+&lt;p&gt;&quot;Through a set of religious/supernatural practices, some yoga practitioners can live as long as they like. At least two have lived for 5000 years.&quot;&lt;/p&gt;
+&lt;p&gt;From that, we can ask several questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Are those two people still alive, after being born thousands of years BCE?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Has anyone used yoga to live for supernatural lengths of time?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If the first two answers is no, is it &lt;strong&gt;possible&lt;/strong&gt; for people to use yoga to live for supernatural lengths of time?&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first question is a legitimate question about the real world. That it has religious overtones doesn't mean it is out of scope. It is a case of &lt;a href=&quot;https://en.wikipedia.org/wiki/Non-overlapping_magisteria&quot; rel=&quot;nofollow noreferrer&quot;&gt;overlapping magisteria&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The second question is a legitimate question about the real world.&lt;/p&gt;
+&lt;p&gt;The third question is NOT a legitimate question here, because it cannot be answered with empirical evidence. Pointing to scientific models of MRAD doesn't help, because that relies on natural methods, where this calls on supernatural methods. &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Note: I avoided the phrase &quot;immortal&quot; because that is unfalsifiable, even after living for 5000 years. I am also very aware of the two cop-outs in the original claim wording - the &lt;a href=&quot;https://en.wikipedia.org/wiki/No_true_Scotsman&quot; rel=&quot;nofollow noreferrer&quot;&gt;No True Scotsman fallacy&lt;/a&gt; and that a yoga practitioner dying at aged 78 might still be explained away as living &quot;as long as they liked&quot;.&lt;/p&gt;
+" CommentCount="10" CreationDate="2017-06-22T00:24:20.160" Id="3996" LastActivityDate="2017-06-22T00:47:20.140" LastEditDate="2017-06-22T00:47:20.140" LastEditorUserId="23" OwnerUserId="23" ParentId="3991" PostTypeId="2" Score="2"/>
+  <row Body="&lt;p&gt;All of the claims are obviously true.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;By controlling the breath, the perfect yogī can continue his life for
+  as long as he likes.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To live forever, all you need to do is continue breathing. It is obvious. If someone is not able to do that, then they are obviously not perfect yogis.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Sometimes we hear from the Vedic literature that some personalities
+  from the Vedic age, such as Vyāsadeva and Aśvatthāmā, are still
+  living.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These stories are demonstrably part of Vedic literature, so it is true that we can hear these stories. Many, if not all other religions have stories about humans with supernatural powers, so it is not even a special claim in the domain of religion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seriously:&lt;/strong&gt; The claim is obviously a religious one. The misunderstanding, resulting in lengthy discussions here, is because in the Western world, the word &quot;yoga&quot; has gained a different meaning, as a basically religion-less exercise system. However, in the context of the claim, &quot;yoga&quot; is a religious practice. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Vedas&quot; rel=&quot;nofollow noreferrer&quot;&gt;Vedas&lt;/a&gt; are religious texts:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Hindus consider the Vedas to be apauruṣeya, which means &quot;not of a man,
+  superhuman&quot;[4] and &quot;impersonal, authorless&quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Therefore, the correct context for the claim is, that a religious person is claiming something based on their religious scriptures, which is &lt;strong&gt;off topic&lt;/strong&gt; on Skeptics SE.&lt;/p&gt;
+" CommentCount="0" CreationDate="2018-01-25T09:57:45.043" Id="4127" LastActivityDate="2018-01-25T13:27:35.343" LastEditDate="2018-01-25T13:27:35.343" LastEditorUserId="16771" OwnerUserId="16771" ParentId="3991" PostTypeId="2" Score="0"/>
+  <row AcceptedAnswerId="4444" AnswerCount="2" Body="&lt;p&gt;There are currently four questions tagged &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead&lt;/a&gt; and five questions tagged &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead-poisoning&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead-poisoning&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead-poisoning&lt;/a&gt;, one of which is tagged with both.&lt;/p&gt;
+&lt;p&gt;All of the questions tagged with lead are about lead poisoning, which means that if both tags were worth keeping, they’d all ought to have both tags, which means one of them is redundant.&lt;/p&gt;
+&lt;p&gt;I think we should get rid of the lead-poisoning tag, in case someone wants to ask a question which is about lead, but isn’t about lead poisoning.&lt;/p&gt;
+" CommentCount="3" CreationDate="2019-09-29T23:03:51.443" Id="4440" LastActivityDate="2019-10-05T02:41:05.213" LastEditDate="2019-10-05T02:40:38.937" LastEditorUserId="23" OwnerUserId="104" PostTypeId="1" Score="4" Tags="&lt;discussion&gt;&lt;status-completed&gt;&lt;tagging&gt;" Title="Let’s fill [lead-poisoning] full of [lead]!" ViewCount="97"/>
+  <row Body="&lt;p&gt;I agree, get rid of &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead-poisoning&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead-poisoning&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead-poisoning&lt;/a&gt;. The &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead&lt;/a&gt; tag can be paired with one of the health or medical tags to further specify the nature of the question. I don't think a tag specifically for the poisoning aspect is necessary.&lt;/p&gt;
+&lt;p&gt;I think we could probably make &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead-poisoning&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead-poisoning&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead-poisoning&lt;/a&gt; a synonym of &lt;a href=&quot;https://skeptics.stackexchange.com/questions/tagged/lead&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;lead&amp;#39;&quot; rel=&quot;tag&quot;&gt;lead&lt;/a&gt;.&lt;/p&gt;
+" CommentCount="0" CreationDate="2019-10-01T17:49:57.577" Id="4442" LastActivityDate="2019-10-01T17:49:57.577" OwnerUserId="14622" ParentId="4440" PostTypeId="2" Score="7"/>
+</posts>
