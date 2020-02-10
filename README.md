@@ -19,4 +19,5 @@ terms, for context.
 <tr>
   <td>space.stackexchange.com</td><td>58</td>
   <td>space.meta.stackexchange.com</td><td>58</td>
+</tr>
 </table>
