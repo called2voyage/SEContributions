@@ -1,0 +1,183 @@
+<?xml version="1.0" ?><posts>
+  <row AcceptedAnswerId="190206" AnswerCount="3" Body="&lt;p&gt;Today at 12:30 PM CST, the &quot;add comment&quot; button stopped working on any Stack Exchange site for Internet Explorer 8. It cites a javascript error.&lt;/p&gt;
+&lt;p&gt;(Edit: I'm not using Compatibility Mode, and JavaScript &lt;em&gt;is&lt;/em&gt; enabled.)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;@MartijnPieters - I can only use IE8 at work. It has worked fine until today.&lt;/p&gt;
+&lt;p&gt;@Bart - Inherently, no, it is not SE/SO's problem, but it depends on whether or not they want to lose a large amount of users for the next couple of years.&lt;/p&gt;
+&lt;p&gt;@GSerg - What setup are you using? I'm using IE v. 8.0.7601.17514 on Windows 7 Enterprise SP1 64-bit on a Dell Latitude E6420.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me make this explicitly clear. The company for which I work, an exceedingly large company with many SE users, does not support any other browser besides IE8. This will not change for the next couple of years.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Error details&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.stack.imgur.com/xajps.jpg&quot; alt=&quot;SE Comment Error&quot;&gt;&lt;/p&gt;
+" CommentCount="12" CreationDate="2013-07-24T17:46:36.923" Id="190183" LastActivityDate="2015-09-21T09:36:24.997" LastEditDate="2013-07-24T20:30:22.297" LastEditorUserId="136973" OwnerUserId="228367" PostTypeId="1" Score="13" Tags="&lt;bug&gt;&lt;status-completed&gt;&lt;comments&gt;&lt;javascript&gt;&lt;internet-explorer&gt;" Title="&quot;Add comment&quot; button no longer working on any Stack Exchange site for Internet Explorer 8" ViewCount="328"/>
+  <row Body="&lt;p&gt;I feel your pain; the local devs would &lt;a href=&quot;https://meta.stackexchange.com/q/167440/147640&quot;&gt;allow &lt;code&gt;console&lt;/code&gt; in production code&lt;/a&gt; from time to time for some reason.&lt;/p&gt;
+&lt;p&gt;As a workaround, just bring up the IE dev tools by pressing F12. This will define &lt;code&gt;console&lt;/code&gt; and the button will work.&lt;/p&gt;
+" CommentCount="7" CreationDate="2013-07-24T18:18:02.560" Id="190188" LastActivityDate="2013-07-24T18:18:02.560" LastEditDate="2017-03-20T10:30:01.793" LastEditorUserId="-1" OwnerUserId="147640" ParentId="190183" PostTypeId="2" Score="12"/>
+  <row Body="&lt;p&gt;I'm using IE9 and clicking the &quot;add comment&quot; link on this question does nothing.&lt;/p&gt;
+&lt;p&gt;Same for answers.&lt;/p&gt;
+&lt;p&gt;This workaround described in &lt;a href=&quot;https://meta.stackexchange.com/a/190188/167443&quot;&gt;GSerg's answer&lt;/a&gt; appears to work to get past the issue.&lt;/p&gt;
+&lt;p&gt;I've notice this also applies to the &quot;show more comments&quot; link.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-07-24T18:18:34.530" Id="190189" LastActivityDate="2013-07-24T18:46:10.073" LastEditDate="2017-03-20T10:30:14.317" LastEditorUserId="-1" OwnerUserId="167443" ParentId="190183" PostTypeId="2" Score="4"/>
+  <row Body="&lt;p&gt;This is fixed in the next build, which should roll out within a few minutes.  Sorry 'bout that :-(&lt;/p&gt;
+" CommentCount="4" CreationDate="2013-07-24T19:37:23.683" Id="190206" LastActivityDate="2013-07-24T19:37:23.683" OwnerUserId="136973" ParentId="190183" PostTypeId="2" Score="12"/>
+  <row AnswerCount="2" Body="&lt;p&gt;On SpaceEx.SE, we have two questions that have fundamentally the same answer, but are asked in slightly different ways. Technically speaking, the questions are different because of the way they are worded, however if they were both worded correctly they would be duplicates. As it is neither is worded particularly well according to the technical terminology used, though one is slightly better.&lt;/p&gt;
+&lt;p&gt;Here are the two questions:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://space.stackexchange.com/questions/1858/is-there-any-reason-in-sending-the-space-probes-along-the-plane-of-our-solar-sys&quot;&gt;Is there any reason in sending the space probes along the plane of our solar system instead perpendicular to the plane of our solar system?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://space.stackexchange.com/questions/834/would-leaving-the-ecliptic-plane-offer-any-benefit-to-interstellar-travel&quot;&gt;Would leaving the ecliptic plane offer any benefit to interstellar travel?&lt;/a&gt;&lt;/p&gt;
+" CommentCount="3" CreationDate="2013-09-09T18:19:05.777" Id="196332" LastActivityDate="2013-09-09T18:27:38.680" LastEditDate="2017-04-13T12:58:50.783" LastEditorUserId="-1" OwnerUserId="228367" PostTypeId="1" Score="5" Tags="&lt;discussion&gt;&lt;duplicate-questions&gt;" Title="How should we deal with two questions that are different, but would be duplicates if worded well?" ViewCount="93"/>
+  <row Body="&lt;p&gt;It seems to me, that these questions are duplicates as they are right now, or at least so close to each other that it seems the answers for one would be reasonable answers for the other. They could be closed as duplicates as is, without re-wording.&lt;/p&gt;
+" CommentCount="2" CreationDate="2013-09-09T18:24:24.100" Id="196336" LastActivityDate="2013-09-09T18:24:24.100" OwnerUserId="213846" ParentId="196332" PostTypeId="2" Score="1"/>
+  <row Body="&lt;p&gt;You close the worst worded in duplicate of the slightly best worded (or the one with best answers or w/e you decide is the best option for users coming to the site).&lt;/p&gt;
+&lt;p&gt;Having different wording is not a bad thing, because it makes more ways to find the question.&lt;/p&gt;
+&lt;p&gt;Having a question close as a duplicates only means that by finding one you will also find the other, which is nice because you will just find the answer you are looking for easily.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-09-09T18:27:38.680" Id="196338" LastActivityDate="2013-09-09T18:27:38.680" OwnerUserId="192622" ParentId="196332" PostTypeId="2" Score="2"/>
+  <row AcceptedAnswerId="200266" AnswerCount="1" Body="&lt;p&gt;Below you can see the History icon and the Philosophy icon broken. There are a few others. Off the top of my head, I know Christianity was one as well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.stack.imgur.com/zL8Zp.jpg&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I'm viewing in IE8 on Windows 7.&lt;/p&gt;
+" CommentCount="3" CreationDate="2013-10-10T14:39:08.020" Id="200259" LastActivityDate="2013-10-10T15:20:55.887" LastEditDate="2013-10-10T15:07:57.130" LastEditorUserId="140505" OwnerUserId="228367" PostTypeId="1" Score="1" Tags="&lt;bug&gt;&lt;status-completed&gt;&lt;design&gt;&lt;stack-exchange-button&gt;" Title="The History image is broken on the Multi Collider Drop Down as well as the icons for a few other stacks" ViewCount="49"/>
+  <row Body="&lt;blockquote&gt;
+  &lt;p&gt;Some of these images are coming from se.com which is currently down (bad build). We are working on resolving the issue.&lt;/p&gt;
+  &lt;p&gt;Should be OK now&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://meta.stackexchange.com/questions/200259/the-history-image-is-broken-on-the-multi-collider-drop-down-as-well-as-the-icons#comment637259_200259&quot;&gt;Oded&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That did fix the problem!&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-10-10T15:20:55.887" Id="200266" LastActivityDate="2013-10-10T15:20:55.887" LastEditDate="2017-03-20T10:30:42.327" LastEditorUserId="-1" OwnerUserId="228367" ParentId="200259" PostTypeId="2" Score="0"/>
+  <row AnswerCount="1" Body="&lt;p&gt;Something that I think would be a valuable tool for the site, and would help get answers to really critical questions, would be to have a &quot;hottest unanswered&quot; tab on the MultiCollider drop down to see all of the really hot questions that haven't been answered yet on the site.&lt;/p&gt;
+&lt;p&gt;I don't see any reason why this wouldn't be possible. Is this something that could be added?&lt;/p&gt;
+" CommentCount="6" CreationDate="2013-10-14T21:10:54.337" FavoriteCount="1" Id="201705" LastActivityDate="2013-10-15T05:49:22.113" OwnerUserId="228367" PostTypeId="1" Score="7" Tags="&lt;feature-request&gt;&lt;stack-exchange-button&gt;&lt;hot-questions&gt;" Title="Would it be possible to have a &quot;hottest unanswered&quot; tab on the MultiCollider drop down?" ViewCount="83"/>
+  <row Body="&lt;p&gt;This seems a bit backwards to me.&lt;/p&gt;
+&lt;p&gt;At least on Physics, our &quot;hottest unanswered&quot; are hard problems that require experts in a rather specific physics subtopic, so showing the question to non-experts from other sites won't help much. I'm pretty sure the same goes (at a lesser degree, maybe) for Sec.SE, EE, Robotics, Astro, SF&amp;amp;F, and probably SO. I can't say as much for other sites as I may not participate on them or I may not have seen any &quot;hot unanswered&quot; questions on them.&lt;/p&gt;
+&lt;p&gt;So this may end up bringing even &lt;em&gt;more&lt;/em&gt; clueless people in; which, while not harmful, isn't necessary.&lt;/p&gt;
+&lt;p&gt;Now, I could get behind showing new, upvoted, unanswered questions in the Multicollider. I discover new sites (which I have a chance of participating on)  this way; I go through the realtime section on SE.com and watch for interesting questions.&lt;/p&gt;
+" CommentCount="1" CreationDate="2013-10-15T05:49:22.113" Id="201727" LastActivityDate="2013-10-15T05:49:22.113" OwnerUserId="178438" ParentId="201705" PostTypeId="2" Score="2"/>
+  <row AcceptedAnswerId="274591" AnswerCount="2" Body="&lt;p&gt;It is my understanding that one of the central purposes of the new top bar was to unite the sites so that there is a feeling of staying within the same master site (Stack Exchange) as you browse the different sites.&lt;/p&gt;
+&lt;p&gt;Something that I think would help with this experience would be to keep the top bar logged in &lt;strong&gt;even when you are on sites that you have not set up an account for&lt;/strong&gt;. I think this new feature should not automatically create you an account on that site, but should use some sort of general Stack Exchange network account to keep the top bar features active. This way I can still see my notifications and my top sites even when I'm on a site that I don't have an account on.&lt;/p&gt;
+&lt;p&gt;How does this sound? Is this doable?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;EDIT&lt;/strong&gt; - Maybe a &quot;join this site&quot; link where the rep and badges are normally to indicate that you don't have an account on the site you're currently viewing?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.stack.imgur.com/1UFeL.png&quot; alt=&quot;join this site link&quot;&gt;&lt;/p&gt;
+" CommentCount="10" CreationDate="2013-12-10T16:00:38.587" FavoriteCount="8" Id="210961" LastActivityDate="2016-02-12T20:34:26.910" LastEditDate="2016-02-12T20:32:53.860" LastEditorUserId="155160" OwnerUserId="228367" PostTypeId="1" Score="120" Tags="&lt;feature-request&gt;&lt;status-completed&gt;&lt;login&gt;&lt;top-bar&gt;" Title="Keeping the top bar logged in" ViewCount="1136"/>
+  <row AnswerCount="0" Body="&lt;p&gt;Could the &lt;a href=&quot;http://stackexchange.com/&quot;&gt;Stack Exchange home page&lt;/a&gt; be more tailored to each user when logged in? Maybe have a large visually appealing status of activity on their selected communities, etc. Maybe this could even be customizable?&lt;/p&gt;
+&lt;p&gt;Probably not top priority, but would be nice to have at some point.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pops is on to something &lt;a href=&quot;https://meta.stackexchange.com/a/68228/228367&quot;&gt;here&lt;/a&gt; (I know it's an old post):
+&lt;a href=&quot;https://i.stack.imgur.com/mUUaH.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/mUUaH.png&quot; alt=&quot;Pops SE mockup&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+" CommentCount="8" CreationDate="2014-04-24T15:10:27.157" Id="230401" LastActivityDate="2016-06-06T17:18:04.940" LastEditDate="2017-03-20T10:30:11.100" LastEditorUserId="-1" OwnerUserId="228367" PostTypeId="1" Score="4" Tags="&lt;feature-request&gt;&lt;users&gt;&lt;stackexchange.com&gt;" Title="Stack Exchange home page tailored to logged in users" ViewCount="70"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://meta.stackexchange.com/questions/260153/upcoming-login-changes&quot;&gt;There are some login changing coming&lt;/a&gt; and one of the point of those changes is the &quot;join this community&quot; button in the top bar.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We are going to recognize you in some ways on sites where you don't have a profile. This is still a work in progress, but most notably you will see &quot;join this community&quot; in the top bar instead of &quot;sign up&quot; and &quot;log in&quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, even if there won't be no other indicators (which would be made probably though, at least because of the first part of the sentence I quoted), your request is quite considered to be a pretty good one :)&lt;/p&gt;
+" CommentCount="2" CreationDate="2015-07-06T23:04:31.333" Id="260155" LastActivityDate="2015-07-06T23:04:31.333" LastEditDate="2017-03-20T10:30:01.683" LastEditorUserId="-1" OwnerUserId="259214" ParentId="210961" PostTypeId="2" Score="6"/>
+  <row Body="&lt;p&gt;This wasn't doable at the time when you requested this, but it became doable over the past year as we &lt;a href=&quot;https://meta.stackexchange.com/questions/260153/global-auth-is-dead-long-live-universal-login&quot;&gt;overhauled the login system entirely&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We did basically what you proposed (although I don't recall seeing this post before... despite the fact that I even left a comment at the time :)) - a &quot;join this community&quot; link in the top bar, and your inbox/achievements are still available as well.&lt;/p&gt;
+" CommentCount="0" CreationDate="2016-02-12T20:34:26.910" Id="274591" LastActivityDate="2016-02-12T20:34:26.910" LastEditDate="2017-03-20T10:31:42.163" LastEditorUserId="-1" OwnerUserId="155160" ParentId="210961" PostTypeId="2" Score="5"/>
+  <row AcceptedAnswerId="287841" AnswerCount="1" Body="&lt;p&gt;I tried to post &lt;a href=&quot;https://skeptics.stackexchange.com/questions/36189/whats-the-most-used-2-digits-abbreviation-system-for-mexican-states&quot;&gt;this question&lt;/a&gt; on &lt;a href=&quot;https://skeptics.stackexchange.com/&quot;&gt;Skeptics&lt;/a&gt;, but a user answered me it was not appropriated for that site. &lt;/p&gt;
+&lt;p&gt;Where should I post the following question, as it is not a question about programming, nor travel, nor culture properly:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;What's the most used 2-digits abbreviation system for the names of mexican states?&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;I'm coding a health system which should offer a menu containing the
+  list of mexican states (and DF) in a patients' creation section.&lt;/p&gt;
+  &lt;p&gt;I know there is &lt;a href=&quot;https://renapo.gob.mx/swb/swb/RENAPO/renapo&quot; rel=&quot;nofollow noreferrer&quot;&gt;RENAPO&lt;/a&gt;'s standard, but it differs from other
+  standards, as you can see in this &lt;a href=&quot;https://es.wikipedia.org/wiki/Plantilla:Abreviaciones_de_los_estados_de_M%C3%A9xico&quot; rel=&quot;nofollow noreferrer&quot;&gt;Wikipedia's article&lt;/a&gt;, and I
+  don't know which standard is the best to use.&lt;/p&gt;
+  &lt;p&gt;Which 2-digits abbreviation standard is more used to identify a
+  mexican state as part of an address or a person birthplace?&lt;/p&gt;
+&lt;/blockquote&gt;
+" CommentCount="6" CreationDate="2016-12-06T20:12:08.633" Id="287838" LastActivityDate="2016-12-06T20:43:36.410" LastEditDate="2017-04-13T12:46:44.407" LastEditorUserId="-1" OwnerUserId="345695" PostTypeId="1" Score="2" Tags="&lt;discussion&gt;&lt;site-recommendation&gt;" Title="Where should I post this question?" ViewCount="55"/>
+  <row Body="&lt;p&gt;After some more thought, I'm not sure Expatriates is best since (I presume) you are not an expatriate yourself. However, your question definitely strikes me as a user experience (UX) related question, and so the only obstacle to overcome is finding someone in that field who knows the details for Mexico state abbreviations. Consider the accepted answer to the following question at &lt;a href=&quot;https://ux.stackexchange.com/&quot;&gt;User Experience&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ux.stackexchange.com/q/64665/51758&quot;&gt;Address form, field for &amp;quot;region&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It seems there might be someone over there with the requisite knowledge after all.&lt;/p&gt;
+" CommentCount="0" CreationDate="2016-12-06T20:43:36.410" Id="287841" LastActivityDate="2016-12-06T20:43:36.410" LastEditDate="2017-04-13T12:32:23.020" LastEditorUserId="-1" OwnerUserId="228367" ParentId="287838" PostTypeId="2" Score="2"/>
+  <row AcceptedAnswerId="293461" AnswerCount="1" Body="&lt;p&gt;In Firefox and IE, I'm seeing this bug on all main SE front pages:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.stack.imgur.com/OTz3t.jpg&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/OTz3t.jpg&quot; alt=&quot;scripting error&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It's showing &lt;code&gt;docsHero.RenderPartial(Html); storyHero.RenderPartial(Html);&lt;/code&gt; on the top of the front page.&lt;/p&gt;
+" CommentCount="13" CreationDate="2017-04-06T18:28:00.507" FavoriteCount="0" Id="293434" LastActivityDate="2017-04-07T07:47:59.590" LastEditDate="2017-04-06T18:43:32.203" LastEditorUserId="91" OwnerUserId="228367" PostTypeId="1" Score="15" Tags="&lt;bug&gt;&lt;status-completed&gt;&lt;frontpage&gt;" Title="Possible scripting error on all main SE front pages" ViewCount="148"/>
+  <row Body="&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://meta.stackexchange.com/questions/293434/possible-scripting-error-on-all-main-se-front-pages#comment953837_293434&quot;&gt;Yeah, copy/paste fail when refactoring some view logic, and that only shows up some of the time :/ Pushing a fix in a moment.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://meta.stackexchange.com/questions/293434/possible-scripting-error-on-all-main-se-front-pages#comment953840_293434&quot;&gt;Rolled back to the previous build, then double, triple and quadruple checking the view. Still looking at what happened, but basically, it's a banner that isn't always shown, so I didn't see it and it doesn't always show for everyone. Sorry about that!&lt;/a&gt;&lt;br&gt;
+   – Michael Stum♦&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So everything is fixed now. Yay! :P&lt;/p&gt;
+" CommentCount="3" CreationDate="2017-04-07T07:47:59.590" Id="293461" LastActivityDate="2017-04-07T07:47:59.590" OwnerUserId="294691" ParentId="293434" PostTypeId="2" Score="3"/>
+  <row AnswerCount="0" Body="&lt;p&gt;Today I noticed on one of the sites that I moderate that a user account was removed due to inactivity. What are the conditions for being removed for inactivity? I was not aware that this was grounds for account deletion, so I was surprised to see this.&lt;/p&gt;
+" ClosedDate="2018-05-29T19:16:37.313" CommentCount="0" CreationDate="2018-05-29T19:13:55.893" Id="310689" LastActivityDate="2018-05-29T19:13:55.893" OwnerUserId="228367" PostTypeId="1" Score="3" Tags="&lt;support&gt;&lt;users&gt;" Title="Under what conditions are inactive users removed?" ViewCount="54"/>
+  <row AnswerCount="0" Body="&lt;p&gt;Currently, when moderator tools are visible it pushes down the comments section:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.stack.imgur.com/mks8F.jpg&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/mks8F.jpg&quot; alt=&quot;Current beta site answer layout&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That's a lot of unused white space--kind of unsightly and it makes you scroll further for comments.&lt;/p&gt;
+&lt;p&gt;Could we get a tighter layout like this?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.stack.imgur.com/wYJ1A.jpg&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/wYJ1A.jpg&quot; alt=&quot;Proposed beta site answer layout&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Edited to note that this also applies to questions, such as &lt;a href=&quot;https://astronomy.stackexchange.com/questions/26870/influences-from-outside-the-observable-universe-explaining-dark-energy-and-expan&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This doesn't seem to have been addressed in the recent design overhaul.&lt;/p&gt;
+" CommentCount="2" CreationDate="2018-07-19T18:08:12.870" Id="312866" LastActivityDate="2019-07-18T19:30:48.973" LastEditDate="2019-07-18T19:30:48.973" LastEditorUserId="228367" OwnerUserId="228367" PostTypeId="1" Score="21" Tags="&lt;feature-request&gt;&lt;status-review&gt;&lt;design&gt;&lt;moderator-tools&gt;&lt;organization&gt;" Title="Could we get a tighter layout for questions and answers when moderator tools are visible?" ViewCount="132"/>
+  <row AnswerCount="67" Body="&lt;h2&gt;Thanks for your input here and elsewhere on Meta.&lt;/h2&gt;
+&lt;p&gt;Please see the results of this discussion on the update post:&lt;br&gt;
+&lt;a href=&quot;https://meta.stackexchange.com/questions/325060/updating-the-hot-network-questions-list-now-with-a-bit-more-network-and-a-litt&quot;&gt;Updating the Hot Network Questions List - now with a bit more network and a little less &amp;quot;hotness&amp;quot;!&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Some things happened yesterday that caused a need for us to (quickly) remove a site's eligibility to contribute to the &lt;a href=&quot;https://stackexchange.com&quot;&gt;list of hot network questions&lt;/a&gt;. For those of you not familiar with what we've come to call the 'HNQ' list, please visit the link; the list of questions shown as 'hot' on stackexchange.com are displayed in the sidebar of &lt;em&gt;most&lt;/em&gt; Stack Exchange sites. Here's an idea of what it looks like:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.stack.imgur.com/7xvlD.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/7xvlD.png&quot; alt=&quot;Screen shot of hot network questions in the sidebar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It's a list of titles, with their origins vaguely identifiable by the presence of the 'favicon' element that identifies each site. We're &lt;em&gt;extremely&lt;/em&gt; proud of the quality of content that can be found on every single site in our network. The &lt;em&gt;titles&lt;/em&gt;, however, when shown out of context, can be problematic. Anything out of context can be problematic.&lt;/p&gt;
+&lt;p&gt;This isn't a new problem. We've dealt with trigger words in titles that occur naturally &lt;em&gt;through good-faith questions&lt;/em&gt; on sites like Parenting, Gaming, Christianity, Islam and more. While we probably deserve some egg on our face for relying on regular expressions as a go-to quick fix, &lt;em&gt;they've been sufficient&lt;/em&gt; for ensuring trigger words and &lt;em&gt;overt&lt;/em&gt; clickbait was kept out of the list for the most part. &lt;/p&gt;
+&lt;p&gt;Then we launched a site that tended to have 3-4 hot questions asked each &lt;em&gt;day&lt;/em&gt; (by any way one could conceivably measure velocity and good reception). The titles of these questions, out of context, are just &lt;em&gt;too&lt;/em&gt; likely to be inappropriate on our professional and academic sites, so we took the site out of the contributing list. Still with me? Thank you, because there's no way to open this discussion without background. &lt;/p&gt;
+&lt;p&gt;This is one &lt;a href=&quot;https://meta.stackexchange.com/questions/tagged/hot-questions&quot;&gt;of many times&lt;/a&gt; we've talked about problems with hot network questions. This isn't a new problem. What escalated the problem is that we had to take an entire &lt;em&gt;site&lt;/em&gt; out of the mix, which isn't ideal, and I'll explain why.&lt;/p&gt;
+&lt;h3&gt;What goals do we have for the hot question list?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;They help with discovery. User interviews continue to reveal that folks simply &lt;em&gt;don't&lt;/em&gt; often discover just how big of a resource we've become collectively. The list boosts engagement in quite a few ways (we'll admit some of them aren't optimal)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;They often remind communities to have discussions about scope. If folks see a clear demand for certain kinds of questions, it's worth revisiting conversations about how valuable finding ways to meet those needs might be.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hot questions are &lt;em&gt;extremely&lt;/em&gt; great fodder for evangelists, the kinds of people that reach thousands of folks that are likely to identify with the way we do Q&amp;amp;A. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Let's face it, they're a jackpot and a curse. A little patch of chaos that grows pumpkins and poison ivy - just usually more pumpkins. &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;What's broken?&lt;/h3&gt;
+&lt;p&gt;The list of questions is generated through a &lt;em&gt;very&lt;/em&gt; expensive query, cached, and refreshed on a set schedule. Giving moderators or even community managers the ability to 'evict' a problematic title while keeping the system in check with what we consider performant and sane are .. mutually-exclusive goals. &lt;/p&gt;
+&lt;p&gt;Now that we have gotten to the point where we've gone from saying &quot;Let's ignore titles with these words..&quot; to &quot;Let's ignore sites with these titles..&quot;, we're seeing a pattern of scale that starts to suck if you think about it protractedly.&lt;/p&gt;
+&lt;h3&gt;What do we need from you?&lt;/h3&gt;
+&lt;p&gt;We want some ideas on ways we can continue to meet our goals of getting the right sites in front of the right people who are likely to appreciate them and participate. &lt;/p&gt;
+&lt;p&gt;Automatic selection simply &lt;em&gt;will not scale&lt;/em&gt; if we continue to push the limits of subjective topic spaces, and we need to continue to do that for the network to grow and remain relevant to the issues folks want to use our software creatively to solve. &lt;/p&gt;
+&lt;h3&gt;We don't expect to solve this problem in one post right away.&lt;/h3&gt;
+&lt;p&gt;Let's say we agree to take out the hot network questions entirely. &lt;em&gt;But&lt;/em&gt;, we want something else in its place that continues to pull in some of the benefits, without being such a mindless pain in the neck. &lt;/p&gt;
+&lt;p&gt;In order to find out what that could look like, we need to consolidate what &lt;em&gt;we&lt;/em&gt; want out of it. And that could be &quot;Just turn the darn thing off and be done with it&quot;, or &quot;I found my favorite site through that list, you gotta preserve that somehow!&quot; -- all of this input at this stage will be equally good.&lt;/p&gt;
+&lt;p&gt;Suffice to say, the HNQ (as we know it) is now looking at numbered days, but that number is probably kind of high because it's going to take some work to figure out what voids would be worth filling if we yanked it as we know it now. &lt;/p&gt;
+&lt;p&gt;So, let's talk about it. And, if this seems like it's a continuation of a conversation, it is, from the moderator chat room. Even though the scope of the discussion is still rough, I wanted to get it out 'in sunlight' early, this isn't something to be settled in an all-mod room. &lt;/p&gt;
+&lt;p&gt;Thanks for your time, we look forward to finally (at least committing) to settle on something we can all like a bit more than what we've currently got. &lt;/p&gt;
+&lt;p&gt;And in the spirit of causing tons of people to flood into a single discussion, I'm going to feature this; I just can't help it.&lt;/p&gt;
+" CommentCount="98" CreationDate="2018-10-17T17:48:08.877" FavoriteCount="61" Id="316934" LastActivityDate="2019-03-14T21:43:36.300" LastEditDate="2019-03-14T21:43:36.300" LastEditorUserId="284336" OwnerUserId="50049" PostTypeId="1" Score="-258" Tags="&lt;discussion&gt;&lt;hot-questions&gt;" Title="Revisiting the &quot;Hot Network Questions&quot; feature, what are our shared goals for having it?" ViewCount="22298"/>
+  <row Body="&lt;h2&gt;Initial Response&lt;/h2&gt;
+&lt;p&gt;I know we can't go back and change it, but I think it is important to discuss what should have been done. This absolutely should have been to temporarily remove HNQ from the sidebar, not remove IPS from the HNQ. Ideally, this action should have been taken after a review instead of immediately. The problem, for the most part, was where the information appeared and (as pointed out in the question) the design of HNQ itself. This is the response that would have addressed that issue.&lt;/p&gt;
+&lt;h2&gt;Going Forward&lt;/h2&gt;
+&lt;p&gt;As a long-time user of the HNQ, I hate to say it, but I'm tempted to say do away with the HNQ completely. That said, there are two main things that I would still like to see that I would lose without the HNQ:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I like seeing a summary of useful, fresh questions across the site.&lt;/li&gt;
+&lt;li&gt;I like the publicity sites get--though as pointed out by many, there are problems with the kind of publicity they currently get.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I don't really know how to address either. In regards to #1, I suggest we try different queries on each site to see if we can get a better list. Maybe something like &quot;starred, recent questions&quot;? That might even encourage more people to star.&lt;/p&gt;
+&lt;p&gt;Also, moderators and/or askers could be granted the ability to temporarily disable the star feature so if the question is controversial or otherwise problematic, it won't hit the list (hopefully). Even that may be too similar to what we have today, or it may break the star feature in some way I'm not thinking of, but I suggest we start thinking of alternatives like this.&lt;/p&gt;
+&lt;p&gt;In regards to #2, I like finding new sites without having to go to Area&amp;nbsp;51 or search for them manually. Maybe we could have a random &quot;featured site&quot; spot somewhere?&lt;/p&gt;
+&lt;h2&gt;In Closing&lt;/h2&gt;
+&lt;p&gt;I just want to say--I don't often get as riled as some with SE's handling of things, but this one really ticked me off. I respect Adam and Tim, but they both responded poorly here. It makes me fear for the future of this site. I'm tempted to say Adam's response seems knee-jerk and Tim's seems coordinated.&lt;/p&gt;
+&lt;p&gt;If true, the latter fact makes me worry if those doing the coordinating understand what happened here: I get not wanting to make it about IPS, but Adam made it about IPS by responding to the tweet in the way he did. You can see it didn't take long for the answers here to turn to that fact.&lt;/p&gt;
+" CommentCount="3" CreationDate="2018-10-23T19:15:22.257" Id="317185" LastActivityDate="2018-10-25T17:19:17.473" LastEditDate="2018-10-25T17:19:17.473" LastEditorUserId="63550" OwnerUserId="228367" ParentId="316934" PostTypeId="2" Score="7"/>
+  <row AnswerCount="58" Body="&lt;p&gt;Last week we made an important decision for our community. We removed a moderator for repeatedly violating our existing Code of Conduct and being unwilling to accept our CM’s repeated requests to change that behavior. We recognize it has caused concern in the community as a whole. We made a hard decision, and we stand by that decision. But we must also acknowledge the way in which we implemented it and our communications surrounding the decision could have been much better. &lt;/p&gt;
+&lt;p&gt;Moving forward, we will release an official process around removing moderators. We have a policy for users, but this is the first time we’ve had to remove a moderator for a Code of Conduct violation.  If we have to remove a diamond in the future we will follow a published process. We’re finalizing the policy internally now and will ship it ASAP. &lt;/p&gt;
+&lt;p&gt;We learned (or were painfully reminded, rather) to never ship at 6 PM (EDT) on a Friday. We didn’t follow that rule last week and as a result there was a lot of confusion over the weekend. Even more, this weekend was a religious holiday observed by many on the site. We’re sorry for the confusion and uneasiness that caused. &lt;/p&gt;
+&lt;p&gt;We’re doing a postmortem internally on how we can do better next time. As we build  a more welcoming and inclusive network we’ll continue to learn and to improve. &lt;/p&gt;
+&lt;p&gt;As we continue on this path to doing better, we want to thank you for everything you do and for being such a huge part of this community. We do value every one of you. We’ve seen your pings on chat and on the network and have been actively working to get you answers as soon as possible. Thanks for your patience. We never wanted to leave people wondering about their future in the sites they've worked very hard to moderate.&lt;/p&gt;
+" CommentCount="142" CreationDate="2019-10-03T15:44:18.143" FavoriteCount="197" Id="334248" LastActivityDate="2019-11-25T21:37:58.807" LastEditDate="2019-11-10T17:19:54.347" LastEditorUserId="273494" OwnerUserId="139284" PostTypeId="1" Score="-2218" Tags="&lt;discussion&gt;&lt;moderators&gt;&lt;community&gt;&lt;code-of-conduct&gt;" Title="An Update to our Community and an Apology" ViewCount="117536"/>
+  <row Body="&lt;p&gt;I am loathe to post an answer here, because the community is especially charged right now. However, I feel I must speak out.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Full Disclosure: I am trans. I'm not really open about this fact with SE, though I did recently out myself on Parenting.&lt;/li&gt;
+&lt;li&gt;I have no idea about the details of the new CoC. I haven't been able to find anything directly from the source yet. &lt;strong&gt;However&lt;/strong&gt;, I have read over what Monica said in the Teacher's Lounge. I will not share it here out of respect for Monica and the rules of the Teacher's Lounge. But what she said is &lt;em&gt;more&lt;/em&gt; than a mere disagreement over pronoun use. She used strong, visceral language that was definitely a violation of our &lt;strong&gt;current&lt;/strong&gt; Code of Conduct.
+&lt;blockquote&gt;
+  &lt;p&gt;Side Note: I don't want to get into the details of transphobia and enbyphobia (non-binary phobia) here, but I do want to say that I don't think Monica meant any offense or that she harbors any ill will toward the trans community. Sometimes, however, people's actions can be harmful even when there are good intentions.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Nevertheless, I disagree with what appears to be a one-strike-you're-out approach. I think some form of discipline was in order, but the immediate removal is out of line.&lt;/li&gt;
+&lt;li&gt;This is a delicate issue. People were bound to be hurt however this went, but I feel that the cloak and dagger approach ultimately created more problems. And unfortunately, as pointed out by a few others, this puts trans issues at the center of a scandal.&lt;/li&gt;
+&lt;/ol&gt;
+" CommentCount="43" CreationDate="2019-10-03T18:00:56.467" Id="334289" LastActivityDate="2019-10-03T18:00:56.467" OwnerUserId="228367" ParentId="334248" PostTypeId="2" Score="86"/>
+</posts>
