@@ -1,0 +1,68 @@
+<?xml version="1.0" ?><posts>
+  <row AcceptedAnswerId="22" AnswerCount="2" Body="&lt;p&gt;If I'm watching an aircraft fly overhead and it becomes apparent to me that it is failing, what action can I take in response to this incident?&lt;/p&gt;
+&lt;p&gt;For now I will leave this question generic as to location, but if it becomes necessary to narrow it down I am interested in the US specifically.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-17T22:20:36.273" FavoriteCount="2" Id="19" LastActivityDate="2019-07-21T09:15:48.923" OwnerUserId="44" PostTypeId="1" Score="25" Tags="&lt;aircraft-failure&gt;" Title="What can I do as a bystander on the ground if I see an aircraft above me that appears to be failing?" ViewCount="2208"/>
+  <row Body="&lt;p&gt;Honestly, very little.&lt;/p&gt;
+&lt;p&gt;First, be clear as to whether you are actually see something failing. If you see flames, or a wing has broken off, then yes, it's a problem. However, if you see someone doing a slow spiral towards an empty field with the power idling, they're more likely to be practicing engine out procedures (something that's required for all US pilots to practice and demonstrate during their checkride for their certificate). &lt;/p&gt;
+&lt;p&gt;In the event that you actually see an impact, fire, off-airport landing and so on, call 911 and give them your location. They'll send the appropriate crews. &lt;/p&gt;
+&lt;p&gt;Otherwise, if the aircraft is still flying, there's a strong chance the pilot(s) are already talking to ATC about their problem, if it actually exists. There's nothing you really can or need to do in this case.&lt;/p&gt;
+&lt;p&gt;Quick Anecdote: I've been told the story of a local police department who gets phone calls virtually every time a citizen lands his small airplane in his private field. Fire/police/medics/etc are summoned, when absolutely nothing bad has happened. This is why you should make an attempt to verify that a problem actually exists before reporting it.&lt;/p&gt;
+" CommentCount="3" CreationDate="2013-12-17T22:30:15.063" Id="22" LastActivityDate="2013-12-23T09:35:07.073" LastEditDate="2013-12-23T09:35:07.073" LastEditorUserId="50" OwnerUserId="50" ParentId="19" PostTypeId="2" Score="42"/>
+  <row AcceptedAnswerId="99" AnswerCount="1" Body="&lt;p&gt;Because of US foreign policy, flights between the US and Cuba are prohibited except for certain conditions.  If I am flying there for an approved reason (such as to visit immediate family), how do I obtain the proper permission to do so?&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-18T05:15:18.933" FavoriteCount="2" Id="54" LastActivityDate="2013-12-18T19:01:05.263" OwnerUserId="69" PostTypeId="1" Score="11" Tags="&lt;us-cbp&gt;&lt;us-cuba&gt;" Title="How does a US registered pilot obtain approval to fly to Cuba?" ViewCount="124"/>
+  <row Body="&lt;p&gt;To obtain approval to fly to Cuba you must first sumbit an application for an OFAC (Office of Foreign Assets Control) License through their &lt;a href=&quot;https://licensing.ofac.treas.gov/Apply/Introduction.aspx&quot; rel=&quot;nofollow&quot;&gt;Cuba Travel&lt;/a&gt; website or by mail:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Office of Foreign Assets Control&lt;/p&gt;
+  &lt;p&gt;U.S. Department of the Treasury&lt;/p&gt;
+  &lt;p&gt;Treasury Annex&lt;/p&gt;
+  &lt;p&gt;1500 Pennsylvania Avenue, NW&lt;/p&gt;
+  &lt;p&gt;Washington, DC 20220&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once you have your OFAC license, that completes your US legal requirements, as far as I'm aware.* There are other requirements that you have to fulfill to receive a Cuban visa upon entering, but since you have asked about obtaining US approval I haven't looked into that in detail.&lt;/p&gt;
+&lt;p&gt;For the record, this is the same method that anyone would use to travel to Cuba. Pilots flying to Cuba must ensure that all their passengers also have their own individual OFAC license.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;* &lt;em&gt;I am not a lawyer. Please do not consider this to be legal advice. I would recommend calling OFAC and inquiring for further help with the process.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.treasury.gov/resource-center/sanctions/Programs/Documents/cuba.pdf&quot; rel=&quot;nofollow&quot;&gt;Cuba: What You Need To Know About U.S. Sanctions Against Cuba - OFAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Foreign-Assets-Control.aspx&quot; rel=&quot;nofollow&quot;&gt;OFAC Contact Info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+" CommentCount="0" CreationDate="2013-12-18T19:01:05.263" Id="99" LastActivityDate="2013-12-18T19:01:05.263" OwnerUserId="44" ParentId="54" PostTypeId="2" Score="3"/>
+  <row AcceptedAnswerId="793" AnswerCount="1" Body="&lt;p&gt;In 2010 Fox News posted &lt;a href=&quot;http://www.foxnews.com/scitech/2010/03/13/future-jetpacks-sale-late-year/&quot;&gt;an article&lt;/a&gt; in which they quoted a representative of the FAA saying that the FAA might not regulate jetpacks (the representative did say that they could fall under Part 103). Do any regulations exist in the US for jetpacks?&lt;/p&gt;
+" CommentCount="7" CreationDate="2014-01-08T21:24:35.790" Id="764" LastActivityDate="2014-12-11T18:33:38.693" LastEditDate="2014-12-11T18:33:38.693" LastEditorUserId="247" OwnerUserId="44" PostTypeId="1" Score="12" Tags="&lt;faa-regulations&gt;&lt;usa&gt;" Title="What regulations in the US exist for jetpacks?" ViewCount="2586"/>
+  <row Body="&lt;p&gt;This depends on what you mean by a &quot;jetpack&quot;. If you mean the classic James Bond-style rocket pack, then according to an FAA spokesman &lt;a href=&quot;http://online.wsj.com/news/articles/SB123655460908765815&quot;&gt;quoted&lt;/a&gt; in the Wall Street Journal they just don't fly long enough for the FAA to be interested:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Once aloft, a jetpack pilot is preoccupied with getting down quickly:
+  A typical pack holds about 10 gallons of fuel, only enough to fly for
+  about half a minute. The Federal Aviation Administration doesn't
+  regulate jetpacks. &quot;Thirty seconds is not sufficient to be considered
+  a flight,&quot; says FAA spokesman Les Dorr. He adds that it's up to the
+  individual to assess the risks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;On the other hand if you're referring to the &lt;a href=&quot;http://www.martinjetpack.com/&quot;&gt;Martin Jetpack&lt;/a&gt;, which uses fans instead of rockets, then several sources (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/Martin_Jetpack&quot;&gt;Wikipedia&lt;/a&gt;) say that it's considered an ultralight by the FAA, in which case all the usual ultralight regulations would apply. But I couldn't find any direct confirmation of that on Martin's site.&lt;/p&gt;
+" CommentCount="2" CreationDate="2014-01-09T17:35:26.367" Id="793" LastActivityDate="2014-01-09T17:35:26.367" OwnerUserId="62" ParentId="764" PostTypeId="2" Score="7"/>
+  <row AcceptedAnswerId="9423" AnswerCount="1" Body="&lt;p&gt;After answering &lt;a href=&quot;https://history.stackexchange.com/questions/12233/u-s-biplane-identification&quot;&gt;this question&lt;/a&gt; on History.SE, I started to wonder if it would be possible to find out even more detail about the plane now that its serial number is known.&lt;/p&gt;
+&lt;p&gt;I have no idea what kind of flight records the US Army Air Corps kept, however. I know most flight logs today are kept by pilot, but I imagine there would be some way to trace what pilots flew a particular plane. I have no idea if this is possible for USAAC trainer planes in the 1930s.&lt;/p&gt;
+&lt;p&gt;Could I get access to these records? If so, how would I go about it?&lt;/p&gt;
+&lt;p&gt;I'm mostly interested in seeing if I can find out more information about where the plane flew, and maybe (if I'm lucky) who flew it when and for what purpose.&lt;/p&gt;
+" CommentCount="0" CreationDate="2014-03-27T21:01:44.383" FavoriteCount="1" Id="2827" LastActivityDate="2014-10-30T07:35:36.467" LastEditDate="2017-04-13T12:47:54.013" LastEditorUserId="-1" OwnerUserId="44" PostTypeId="1" Score="13" Tags="&lt;flight-training&gt;&lt;usa&gt;&lt;military&gt;&lt;logging&gt;" Title="Is it possible to get access to flight logs of USAAC trainer planes from the 1930s?" ViewCount="446"/>
+  <row Body="&lt;p&gt;For serial number 31-35
+ - Pilot seems to be Brookley, Wendell H 
+ - Homebase seems to have been Wright Field, Dayton, OH &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aviationarchaeology.com/src/1940sB4/1934.htm&quot; rel=&quot;nofollow&quot;&gt;See Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For serial number 31-85
+ - Pilot seems to be Larkin, James D.
+ - Homebase seems to have been Boeing Field, Seattle, WA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aviationarchaeology.com/src/dbahb.asp?HB=boeing&amp;amp;offset=-1&quot; rel=&quot;nofollow&quot;&gt;See Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.aviationarchaeology.com/src/reports.htm&quot; rel=&quot;nofollow&quot;&gt;It seems that you can order any of these Reports.&lt;/a&gt;&lt;/p&gt;
+" CommentCount="0" CreationDate="2014-10-30T07:27:52.487" Id="9423" LastActivityDate="2014-10-30T07:35:36.467" LastEditDate="2014-10-30T07:35:36.467" LastEditorUserId="3734" OwnerUserId="3734" ParentId="2827" PostTypeId="2" Score="4"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/a/22/753&quot;&gt;Brian Tusi's answer&lt;/a&gt; is correct in that there's probably very little (most likely &lt;em&gt;nothing&lt;/em&gt;) that you can do &lt;em&gt;right then and there&lt;/em&gt; to help &lt;em&gt;that particular aircraft&lt;/em&gt;, even if your assessment is correct in that they actually are having serious problems.&lt;/p&gt;
+&lt;p&gt;However, there is one thing you can do, and which has proven to be helpful in real-world accidents and incidents: &lt;strong&gt;&lt;em&gt;document&lt;/em&gt;&lt;/strong&gt; as much as you can, as quickly as possible.&lt;/p&gt;
+&lt;p&gt;Pull out your phone, or camera, or whatever else you might have handy that takes pictures or video. Set it to action mode if you have the time, but don't spend a lot of time fiddling with the settings. Pointing it at the aircraft, start photographing or recording video. If you're recording video with sound, say something about your location, the current time and maybe the direction you're looking in, in such a way that it gets recorded. (Especially cell phones will usually record your location in the image metadata; I'm not sure about video, but either way, it likely doesn't hurt to help.) If you're using a still-pictures camera such as a DSLR without video capability, you probably want to set the focus to manual and infinity, and then just keep snapping as many pictures as you can for as long as you're able to see the aircraft. Focusing at infinity will almost certainly be the right setting for anything at any distance where you're likely to be able to survive observing an aircraft accident without injury to yourself, and setting the focus to manual will keep the autofocus from changing the focus distance at an inopportunate moment.&lt;/p&gt;
+&lt;p&gt;I would advice against posting the video or pictures to any particular online service, for both social and technical reasons. Considering the needs of accident investigators should this be an actual aviation emergency, such services often recompress any video or images uploaded, which can lose detail, as especially video compression is almost always a lossy process. It's probably better to keep it as pristine as you can for the time being. Keeping the video to yourself also reduces the risk of influencing others, which besides possible impact on victims, their relatives and others, could potentially make investigators' jobs more difficult in trying to piece together what actually happened.&lt;/p&gt;
+&lt;p&gt;Once the immediate situation is over, you can contact your national aircraft accident investigation board, whatever they might be called locally. (NTSB in the US, AAIB in the UK, etc.) Ask them if there's an investigation ongoing for an event around the time when you saw something odd; if there is, offer to send them what you have, and work with them on how to deliver it to them. It's possible that they will want to interview you as well, as a witness.&lt;/p&gt;
+&lt;p&gt;If there is a bona-fide emergency going on, then those pictures and the details you might be able to provide in an interview just might provide accident investigators with just the clues that they need to figure out what happened. If there's not, then all you lost was a few minutes stopping and recording what was going on, and maybe a few minutes spent on looking up their phone number and making a phone call; after all, with digital photography, you can always just delete the pictures or video later.&lt;/p&gt;
+&lt;p&gt;As a final note, &lt;strong&gt;if you come across what you have good reason to believe is aircraft debris on the ground, don't touch it in any way; contact the local police.&lt;/strong&gt; It's likely that they will want to get that to an aircraft accident investigation team; your contacting them may help them do so more quickly.&lt;/p&gt;
+" CommentCount="2" CreationDate="2019-06-23T15:54:04.243" Id="65869" LastActivityDate="2019-07-21T09:15:48.923" LastEditDate="2019-07-21T09:15:48.923" LastEditorUserId="753" OwnerUserId="753" ParentId="19" PostTypeId="2" Score="13"/>
+</posts>
