@@ -44,4 +44,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>meta.stackexchange.com</td><td>228367</td>
 </tr>
+<tr>
+  <td>english.stackexchange.com</td><td>46860</td>
+</tr>
+<tr>
+  <td>english.meta.stackexchange.com</td><td>46860</td>
+</tr>
 </table>
