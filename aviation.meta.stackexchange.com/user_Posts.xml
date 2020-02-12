@@ -1,0 +1,167 @@
+<?xml version="1.0" ?><posts>
+  <row AnswerCount="8" Body="&lt;p&gt;Most SE site chat rooms get a clever name at some point. What ideas do you have?&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-18T14:13:43.907" FavoriteCount="1" Id="24" LastActivityDate="2014-01-06T03:35:38.453" LastEditDate="2014-01-06T03:35:38.453" LastEditorUserId="6" OwnerUserId="44" PostTypeId="1" Score="8" Tags="&lt;discussion&gt;&lt;status-completed&gt;&lt;chat&gt;" Title="What should we call our chat room?" ViewCount="138"/>
+  <row Body="&lt;h1&gt;The Hangar&lt;/h1&gt;
+&lt;p&gt;A possible idea for the general chat room&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This was the winning suggestion. Our Aviation Chat Room is now officially &lt;a href=&quot;http://chat.stackexchange.com/rooms/12036/aviation&quot;&gt;The Hangar&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+" CommentCount="1" CreationDate="2013-12-18T14:16:22.860" Id="25" LastActivityDate="2014-01-06T03:04:41.267" LastEditDate="2014-01-06T03:04:41.267" LastEditorUserId="6" OwnerUserId="44" ParentId="24" PostTypeId="2" Score="14"/>
+  <row Body="&lt;h1&gt;The Runway&lt;/h1&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;h1&gt;The Tarmac&lt;/h1&gt;
+" CommentCount="1" CreationDate="2013-12-18T14:17:57.203" Id="26" LastActivityDate="2013-12-18T14:17:57.203" OwnerUserId="44" ParentId="24" PostTypeId="2" Score="0"/>
+  <row Body="&lt;p&gt;For the mod chat room maybe...&lt;/p&gt;
+&lt;h1&gt;The Cockpit&lt;/h1&gt;
+" CommentCount="0" CreationDate="2013-12-18T14:20:30.870" Id="27" LastActivityDate="2013-12-18T14:20:30.870" OwnerUserId="44" ParentId="24" PostTypeId="2" Score="1"/>
+  <row AnswerCount="4" Body="&lt;p&gt;I'm going to try something new here. I got an idea after observing Space Exploration and Astronomy. Topics of the week often are really good way of getting out a lot of interesting questions &lt;em&gt;when there are enough visitors to the site in the week to see the topic and respond&lt;/em&gt;. The problem with Astronomy is that a lot of people don't know about the topics of the week because they didn't come up until after the visitor count dropped.&lt;/p&gt;
+&lt;p&gt;So here's my new idea:&lt;/p&gt;
+&lt;p&gt;Private beta is too early to actually start &lt;strong&gt;doing&lt;/strong&gt; the Topic of the Week activity, &lt;em&gt;but&lt;/em&gt; it isn't too soon to start coming up with ideas of topics we can do when we &lt;em&gt;do&lt;/em&gt; start. My thought is that if we come up with topics now, people will look forward to their topic coming up in the Topic of the Week later on and will check back on this site later. It &lt;em&gt;may&lt;/em&gt; help get a little more visitors later on when the beta experiences the infamous lag period.&lt;/p&gt;
+&lt;p&gt;With that in mind, &lt;strong&gt;what are your topic ideas?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Remember that topics of the week are usually expressed in the form of tags--existing or not.)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 1/13/2014&lt;/strong&gt;: Aviation, now that you are in public beta and seem to be going strong, do you think you are ready to start a topic of the week? If so, make a new post to start up the topic of the week schedule. Need ideas for format? Check out &lt;a href=&quot;https://space.meta.stackexchange.com/questions/452/topic-of-the-week-solar-sail&quot;&gt;Space Exploration&lt;/a&gt; and &lt;a href=&quot;https://astronomy.meta.stackexchange.com/questions/123/topic-of-the-week-astrometry&quot;&gt;Astronomy&lt;/a&gt; Topics of the Week.&lt;/p&gt;
+" CommentCount="1" CreationDate="2013-12-18T14:41:33.307" FavoriteCount="1" Id="29" LastActivityDate="2014-01-13T17:08:17.147" LastEditDate="2017-03-16T15:52:10.563" LastEditorUserId="-1" OwnerUserId="44" PostTypeId="1" Score="6" Tags="&lt;discussion&gt;" Title="Ideas for future topic of the week" ViewCount="55"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/questions/tagged/approaches&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;approaches&amp;#39;&quot; rel=&quot;tag&quot;&gt;approaches&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After reading &lt;a href=&quot;https://aviation.stackexchange.com/questions/57/what-is-a-simultaneous-offset-instrument-approach-soia&quot;&gt;this question&lt;/a&gt;, I got the idea that &lt;strong&gt;approaches&lt;/strong&gt; could be a really fun topic of the week.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-18T14:42:28.187" Id="30" LastActivityDate="2013-12-18T14:42:28.187" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="44" ParentId="29" PostTypeId="2" Score="4"/>
+  <row AcceptedAnswerId="59" AnswerCount="1" Body="&lt;p&gt;I'm a professional programmer, and very active on StackOverflow.com.&lt;/p&gt;
+&lt;p&gt;I'm also a private pilot, and starting to get active on Aviation.StackExchange.com.&lt;/p&gt;
+&lt;p&gt;For both professional and vanity reasons, I want my StackOverflow profile to tout my programming knowledge and experience.   Employers don't really need to know about my flying skills.&lt;/p&gt;
+&lt;p&gt;Similarly, I'd like my Aviation profile to describe my flying experience.  But I don't think my skills with various CPU architectures are relevant to flying.&lt;/p&gt;
+&lt;p&gt;But ultimately, I'm one person, so I want one login.&lt;/p&gt;
+&lt;p&gt;It seems that one login == one profile.  Is that right?&lt;br&gt;
+Does StackExchange have any provision (or future plans?) to have different presentation s of the same person?&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-18T20:01:24.510" Id="45" LastActivityDate="2013-12-23T18:16:21.497" LastEditDate="2013-12-23T18:16:21.497" LastEditorUserId="8" OwnerUserId="43" PostTypeId="1" Score="6" Tags="&lt;support&gt;&lt;profile-page&gt;&lt;login&gt;" Title="Separate profiles?" ViewCount="60"/>
+  <row Body="&lt;p&gt;You can log in to every stack exchange site with the same login but setup your profile differently, including your display name. When you save your profile changes just make sure you don't click &quot;Save and Copy to All My Accounts&quot; just the regular save button.&lt;/p&gt;
+" CommentCount="2" CreationDate="2013-12-19T13:43:11.440" Id="59" LastActivityDate="2013-12-19T13:43:11.440" OwnerUserId="44" ParentId="45" PostTypeId="2" Score="8"/>
+  <row AcceptedAnswerId="70" AnswerCount="2" Body="&lt;p&gt;In my answer to &lt;a href=&quot;https://aviation.stackexchange.com/questions/29/how-can-i-estimate-the-minimum-runway-needed-to-take-off-with-a-hang-glider&quot;&gt;this question&lt;/a&gt; I suddenly felt the need to include formula's. I am sorry for this, it is a bad habit of mine, but I am sure it will happen more often. &lt;/p&gt;
+&lt;p&gt;Is there any way to format those formula's nicely in a way that I have seen for example on the math.stackexchange site? &lt;/p&gt;
+" CommentCount="3" CreationDate="2013-12-19T18:32:36.943" Id="65" LastActivityDate="2014-04-27T22:18:55.517" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="19" PostTypeId="1" Score="7" Tags="&lt;feature-request&gt;&lt;status-completed&gt;" Title="Can we include math symbols?" ViewCount="95"/>
+  <row AcceptedAnswerId="68" AnswerCount="2" Body="&lt;p&gt;It is not clear to me what the focus of this site is.
+For example here in Germany it is a major pain to deal with all the licensing stuff if you are a private pilot. Would questions about these topics be on topic?&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-19T18:53:28.383" Id="67" LastActivityDate="2013-12-19T19:44:47.073" OwnerUserId="133" PostTypeId="1" Score="10" Tags="&lt;discussion&gt;" Title="Is this site about public aviation or also meant for private pilots?" ViewCount="91"/>
+  <row Body="&lt;p&gt;Not yet.&lt;/p&gt;
+&lt;p&gt;MathJax isn't added to Stack Exchange sites by default because it significantly slows &lt;a href=&quot;https://meta.stackoverflow.com/questions/252282/theres-seriously-no-reason-why-latex-markup-via-mathjax-shouldnt-be-enabled-on#204003&quot;&gt;page load time&lt;/a&gt;. Sites can request MathJax once they enter public beta, but they have to make a good case for why their site needs it. Once MathJax is turned on it can't be turned off.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-19T19:43:38.303" Id="70" LastActivityDate="2014-04-27T00:12:24.437" LastEditDate="2017-03-20T08:46:47.817" LastEditorUserId="-1" OwnerUserId="44" ParentId="65" PostTypeId="2" Score="4"/>
+  <row Body="&lt;p&gt;I would say the site encompasses both aspects, but as roe said will definitely attract a lot of private pilots so your topic idea is a great one!&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-19T19:44:47.073" Id="71" LastActivityDate="2013-12-19T19:44:47.073" OwnerUserId="44" ParentId="67" PostTypeId="2" Score="5"/>
+  <row Body="&lt;h2&gt;The Unicom&lt;/h2&gt;
+&lt;p&gt;Of course&lt;/p&gt;
+" CommentCount="2" CreationDate="2013-12-21T21:56:44.190" Id="83" LastActivityDate="2013-12-21T21:56:44.190" OwnerUserId="19" ParentId="24" PostTypeId="2" Score="2"/>
+  <row Body="&lt;p&gt;It's a bit US-centric, but for the mod chatroom:&lt;/p&gt;
+&lt;h1&gt;The FSDO&lt;/h1&gt;
+" CommentCount="1" CreationDate="2013-12-22T09:55:10.463" Id="86" LastActivityDate="2013-12-22T09:55:10.463" OwnerUserId="64" ParentId="24" PostTypeId="2" Score="0"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/questions/tagged/landing&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;landing&amp;#39;&quot; rel=&quot;tag&quot;&gt;landing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I would certainly throw &lt;strong&gt;landings&lt;/strong&gt; (in all their contentious, everyone does it a different way, do any of us really know how the heck to explain it glory) out there as a topic of the week.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-22T10:29:40.057" Id="90" LastActivityDate="2013-12-22T10:29:40.057" OwnerUserId="64" ParentId="29" PostTypeId="2" Score="4"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/questions/tagged/takeoff&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;takeoff&amp;#39;&quot; rel=&quot;tag&quot;&gt;takeoff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...and if we're going to talk about approaches and landings we kinda have to talk about takeoffs I guess.&lt;br&gt;
+Short field, Soft field, Crosswind, Partial-Power/Reduced-Thrust for you transport-category folks...&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-22T10:31:01.657" Id="91" LastActivityDate="2013-12-22T10:31:01.657" OwnerUserId="64" ParentId="29" PostTypeId="2" Score="2"/>
+  <row Body="&lt;p&gt;For mods, I would call it&lt;/p&gt;
+&lt;h2&gt;The Tower&lt;/h2&gt;
+&lt;p&gt;For general chat The Hangar is hard to beat&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-22T19:55:42.817" Id="95" LastActivityDate="2013-12-22T19:55:42.817" OwnerUserId="62" ParentId="24" PostTypeId="2" Score="6"/>
+  <row Body="&lt;p&gt;&lt;strong&gt;The Cloud&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;would have been hip 3 years ago... &lt;/p&gt;
+" CommentCount="2" CreationDate="2013-12-22T21:03:59.180" Id="96" LastActivityDate="2013-12-22T21:03:59.180" OwnerUserId="95" ParentId="24" PostTypeId="2" Score="1"/>
+  <row Body="&lt;h1&gt;Pilot's Lounge&lt;/h1&gt;
+&lt;p&gt;It might not be inclusive enough, but I thought it was worth adding to the list to be considered. &lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-23T17:51:15.733" Id="100" LastActivityDate="2013-12-23T17:51:15.733" OwnerUserId="51" ParentId="24" PostTypeId="2" Score="0"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/questions/tagged/maintenance&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;maintenance&amp;#39;&quot; rel=&quot;tag&quot;&gt;maintenance&lt;/a&gt; / &lt;a href=&quot;https://aviation.stackexchange.com/questions/tagged/aircraft-maintenance&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;aircraft-maintenance&amp;#39;&quot; rel=&quot;tag&quot;&gt;aircraft-maintenance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Both preventative maintenance, and the other kind.&lt;/p&gt;
+" CommentCount="0" CreationDate="2013-12-28T08:23:04.257" Id="124" LastActivityDate="2014-01-13T17:08:17.147" LastEditDate="2014-01-13T17:08:17.147" LastEditorUserId="97" OwnerUserId="64" ParentId="29" PostTypeId="2" Score="4"/>
+  <row AnswerCount="6" Body="&lt;p&gt;I have received &lt;a href=&quot;http://chat.stackexchange.com/transcript/message/13040827#13040827&quot;&gt;word&lt;/a&gt; that the community managers are ready to pick moderators pro tem for Aviation.&lt;/p&gt;
+&lt;p&gt;With that in mind, I thought I'd ask anyone if they have any suggestions. Feel free to nominate yourself or someone else in a community wiki answer to this question.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If your meta site does not have a post to nominate Moderators, start one now! Pro Tem appointments will begin about two weeks after the site is created. The more guidance we receive, the more informed our choice. &lt;a href=&quot;http://blog.stackoverflow.com/2010/07/moderator-pro-tempore/&quot;&gt;Moderator Pro Tempore&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Each nomination should be a separate answer&lt;/strong&gt;. Link the name to the user’s profile (parent and meta) so we can see their activity.&lt;/li&gt;
+&lt;li&gt;The nominee should indicate their acceptance by editing the answer, adding that they accept the nomination. Optionally they can write something about themselves.&lt;/li&gt;
+&lt;li&gt;Self nominations are okay, and even encouraged. Most sites have not had sufficient time for many users to stand out. Self nomination is simply a way to say, “I’m interested. Let my record speak for itself.” Links to other activities may be helpful: Area 51 participation, participation in other sites, blog posts reviewing or announcing the site, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We're looking for members of this site who:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have a reasonably high reputation score to indicate active, consistent participation.&lt;/li&gt;
+&lt;li&gt;Show an interest in their meta’s community-building activities.&lt;/li&gt;
+&lt;li&gt;Lead by example, showing patience and respect for their fellow community members in everything they write.&lt;/li&gt;
+&lt;li&gt;Exhibit those intangible traits discussed in &lt;a href=&quot;http://blog.stackoverflow.com/2010/07/2009/05/a-theory-of-moderation/&quot;&gt;A Theory of Moderation&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It's also good if the moderators:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are members with participation in both the meta and main site.&lt;/li&gt;
+&lt;li&gt;Participated in Area 51, generate social network referrals, or blog about the site.&lt;/li&gt;
+&lt;li&gt;Are members who have already shown an interest or ability to promote their community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;sup&gt;Lifted from the &lt;a href=&quot;https://space.meta.stackexchange.com/questions/60/moderator-nominations&quot;&gt;meta.space&lt;/a&gt; nomination thread.&lt;/sup&gt;&lt;/p&gt;
+" CommentCount="0" CreationDate="2014-01-07T17:15:03.460" FavoriteCount="2" Id="148" LastActivityDate="2014-01-16T12:33:47.047" LastEditDate="2017-03-16T15:52:04.497" LastEditorUserId="-1" OwnerUserId="44" PostTypeId="1" Score="9" Tags="&lt;discussion&gt;" Title="Who should our moderators be?" ViewCount="387"/>
+  <row Body="&lt;p&gt;I would like to nominate &lt;strong&gt;lnafziger&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackexchange.com/users/901897&quot;&gt;
+profile for lnafziger on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites http://stackexchange.com/users/flair/901897.png
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/69/lnafziger&quot;&gt;
+&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/69.png&quot; width=&quot;208&quot; height=&quot;58&quot; alt=&quot;profile for lnafziger at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot; title=&quot;profile for lnafziger at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;lnafziger is an experienced Stack Exchange user, a professional commercial pilot, and has been dedicated to Aviation so far.&lt;/p&gt;
+&lt;h1&gt;Nomination Acceptance:&lt;/h1&gt;
+&lt;p&gt;Thank you all for the nomination, I am &lt;strong&gt;very&lt;/strong&gt; interested in helping to make this into a thriving community where we can all learn and help each other out!  &lt;/p&gt;
+&lt;p&gt;I find that my engineering and maintenance background is very suitable for the Q&amp;amp;A format that we have here, and am always looking for the &quot;correct&quot; answer.  This also helps me with the maintenance/system side of aviation.  I have also been flying corporate jets for 10 years and am involved with managing a Part 135 charter certificate as the Assistant Chief Pilot.  This gives me a regulatory perspective that I think helps a lot in the aviation industry!&lt;/p&gt;
+" CommentCount="1" CommunityOwnedDate="2014-01-07T17:27:57.443" CreationDate="2014-01-07T17:27:57.443" Id="150" LastActivityDate="2014-01-08T16:51:31.440" LastEditDate="2017-04-13T12:59:58.777" LastEditorUserId="-1" OwnerUserId="44" ParentId="148" PostTypeId="2" Score="11"/>
+  <row Body="&lt;p&gt;I would like to nominate &lt;strong&gt;voretaq7&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackexchange.com/users/95292&quot;&gt;
+profile for voretaq7 on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites http://stackexchange.com/users/flair/95292.png
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/64/voretaq7&quot;&gt;
+&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/64.png&quot; width=&quot;208&quot; height=&quot;58&quot; alt=&quot;profile for lnafziger at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot; title=&quot;profile for voretaq7 at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Voretaq7 is already an active member of other SE sites, and he has shown to be valuable to the growing Aviation community, his profile confirms that, too.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I'd be willing to fill the role as a pro-tem mod, though I'd also point out that we have a bunch of other excellent choices. &lt;/p&gt;
+&lt;p&gt;As far as moderation philosophy, so far the community here has been doing a great job of self-policing &amp;amp; deciding on site direction / early policy through constructive consensus, and I'd like to see that continue.&lt;br&gt;
+Particularly at these early stages I lean toward &quot;Janitorial Moderation&quot; - tweaking posts wth the occasional edit for clarity/formatting, mopping up obsolete comments, and nuking the occasional spammer (seriously - 20 days? How the heck do they find us so fast?!)&lt;br&gt;
+Most of the other stuff I prefer to see done through consensus on Meta as we've been doing - it's healthier for the site long-term, and it gives us a good set of ground rules &amp;amp; precedents as the site grows.&lt;/p&gt;
+" CommentCount="4" CommunityOwnedDate="2014-01-07T18:38:10.767" CreationDate="2014-01-07T17:59:42.963" Id="151" LastActivityDate="2014-01-08T04:42:58.290" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="327" ParentId="148" PostTypeId="2" Score="10"/>
+  <row Body="&lt;p&gt;I nominate:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/322/otto-the-autopilot&quot;&gt;
+&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/322.png&quot; width=&quot;208&quot; height=&quot;58&quot; alt=&quot;profile for Otto the Autopilot at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot; title=&quot;profile for Otto the Autopilot at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...nah, I'm just kidding!! My vote goes to &lt;strong&gt;all&lt;/strong&gt; of the guys above: @egid @lnafziger @voretaq7 - I think you'd all do a great job!&lt;/p&gt;
+" CommentCount="3" CommunityOwnedDate="2014-01-07T23:46:45.080" CreationDate="2014-01-07T19:47:56.703" Id="153" LastActivityDate="2014-01-08T00:02:07.373" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="97" ParentId="148" PostTypeId="2" Score="8"/>
+  <row Body="&lt;p&gt;Because he was too humble to nominate himself:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/39/egid&quot;&gt;
+&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/39.png&quot; width=&quot;208&quot; height=&quot;58&quot; alt=&quot;profile for egid at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot; title=&quot;profile for egid at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackexchange.com/users/987825&quot;&gt;
+profile for egid on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites http://stackexchange.com/users/flair/987825.png
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An active CFII and very active member of our community.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Thanks :) I accept the nomination. I was really excited to see this pop up on Area51! I hope to be able to help out however I can, moderator or not.&lt;/p&gt;
+" CommentCount="2" CommunityOwnedDate="2014-01-07T23:31:57.883" CreationDate="2014-01-07T22:18:02.097" Id="154" LastActivityDate="2014-01-08T04:31:04.800" LastEditDate="2017-04-13T12:59:58.777" LastEditorUserId="-1" OwnerUserId="6" ParentId="148" PostTypeId="2" Score="12"/>
+  <row Body="&lt;p&gt;After some deliberation on whether or not to wait til the next round of elections (since I think the other guys would do a great job), I'm nominating myself, because I'd also really like to be a mod if there are more than 3 positions:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackexchange.com/users/1703956&quot;&gt;
+profile for Danny Beckett on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites http://stackexchange.com/users/flair/1703956.png
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/97/danny-beckett&quot;&gt;
+&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/97.png?theme=default&quot; width=&quot;208&quot; height=&quot;58&quot; alt=&quot;profile for Danny Beckett at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot; title=&quot;profile for Danny Beckett at Aviation Stack Exchange, Q&amp;amp;A for aircraft pilots, mechanics, and enthusiasts&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I'm regularly active in &lt;a href=&quot;http://chat.stackexchange.com/rooms/12036/the-hangar&quot;&gt;The Hangar&lt;/a&gt; and on the site, and I've been around Stack Exchange long enough to know my way around (with 986 helpful flags and 4,168 reviews on SO).&lt;/p&gt;
+&lt;p&gt;I mightn't be as knowledgeable in aviation as some of the other guys, but I'm very interested in it, and keen to learn.&lt;/p&gt;
+&lt;p&gt;Finally: I host and run the chat bot (&lt;a href=&quot;https://aviation.stackexchange.com/users/322/otto-the-autopilot&quot;&gt;Otto the Autopilot&lt;/a&gt;), and have written some &lt;a href=&quot;https://aviation.meta.stackexchange.com/questions/156/what-would-you-like-the-chat-bot-to-do&quot;&gt;new commands&lt;/a&gt; for it, like:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;!!weather JFK  !!metar JFK  !!taf JFK  !!teachmetofly
+&lt;/code&gt;&lt;/pre&gt;
+" CommentCount="0" CommunityOwnedDate="2014-01-07T23:54:50.900" CreationDate="2014-01-07T23:54:50.900" Id="155" LastActivityDate="2014-01-13T04:52:37.397" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="97" ParentId="148" PostTypeId="2" Score="3"/>
+  <row Body="&lt;p&gt;I'm a bit late to the party but I'll see how it goes.&lt;/p&gt;
+&lt;p&gt;Though I certainly don't have the most experience on Stack Exchange sites amongst the nominees, nor am I as experienced in the aviation field as some of the others, I'd like to nominate myself to be a moderator for Aviation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aviation.stackexchange.com/users/72/qantas-94-heavy&quot;&gt;&lt;img src=&quot;https://aviation.stackexchange.com/users/flair/72.png&quot; alt=&quot;profile for Qantas 94 Heavy on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites&quot; title=&quot;profile for Qantas 94 Heavy on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackexchange.com/users/2052845&quot;&gt;profile for Qantas 94 Heavy on Stack Exchange, a network of free, community-driven Q&amp;amp;A sites http://stackexchange.com/users/flair/2052845.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I've been involved with the Aviation site since the following stage on Area 51, and have posted links to the site previously to help others interested in the aviation field to come and join this site (&lt;a href=&quot;https://github.com/Qantas94Heavy/autopilot-pp/blob/master/README.md&quot; rel=&quot;nofollow noreferrer&quot;&gt;an example&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;On the site, I've contributed by asking numerous questions and answering other people's answers, as well as improving other people's posts, some of which is to improve spelling issues or to fix up the setting out of math formulas using &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; tags. When I'm trying to post something, I try my hardest to make sure that things are set out in a neat manner and that all of my answers are of the highest quality, such as ensuring that all posts are free from spelling and grammatical issues to a reasonable degree. If you'd like to see some of my contributions, you can take a look at &lt;a href=&quot;http://stackexchange.com/users/2052845&quot;&gt;my Stack Exchange profile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As well, I've had some experience on other Stack Exchange sites such as Stack Overflow, where I actively participate in community moderation, with over 6800 review completed and 1610 helpful flags (with a corresponding 60:1 helpful to declined ratio).&lt;/p&gt;
+&lt;p&gt;My activity on both Aviation's meta site and Meta Stack Overflow (the site for questions about the Stack Exchange network in general, as well as Stack Overflow) indicates my willingness to help out the community and put forward my opinions as to what we should be doing to improve the various sites out there.&lt;/p&gt;
+&lt;p&gt;I have also had some previous experience moderating &lt;a href=&quot;https://groups.google.com/forum/#!forum/gefs-online&quot; rel=&quot;nofollow noreferrer&quot;&gt;a low-volume forum&lt;/a&gt; for an online flight simulator, which I still currently do. Some of the challenges that have arose include dealing with users without offending them but still sending the message across, and trying to help organise events with the community to help out. Additionally, with the large number of &quot;immature&quot; people on the site, there is a large opportunity to have to interact with these users to check that they actually understand the rules of the site.&lt;/p&gt;
+&lt;p&gt;I'll be able to help out by ensuring that any menial tasks that need to get done are completed, that I'll be able to bring resolution to disputes in an effective manner, as well as maintaining my contributions to the Aviation community.&lt;/p&gt;
+&lt;p&gt;If you have any questions about anything that I've done or how I can help out, feel free to post a comment.&lt;/p&gt;
+" CommentCount="0" CommunityOwnedDate="2014-01-11T05:47:19.840" CreationDate="2014-01-11T05:47:19.840" Id="177" LastActivityDate="2014-01-11T05:47:19.840" LastEditDate="2017-04-13T12:59:58.800" LastEditorUserId="-1" OwnerUserId="72" ParentId="148" PostTypeId="2" Score="6"/>
+</posts>
