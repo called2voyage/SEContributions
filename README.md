@@ -50,4 +50,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>english.meta.stackexchange.com</td><td>46860</td>
 </tr>
+<tr>
+  <td>parenting.stackexchange.com</td><td>4481</td>
+</tr>
+<tr>
+  <td>parenting.meta.stackexchange.com</td><td>4481</td>
+</tr>
 </table>
