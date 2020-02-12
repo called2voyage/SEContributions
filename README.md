@@ -62,4 +62,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>interpersonal.meta.stackexchange.com</td><td>5130</td>
 </tr>
+<tr>
+  <td>rpg.stackexchange.com</td><td>7890</td>
+</tr>
+<tr>
+  <td>rpg.meta.stackexchange.com</td><td>7890</td>
+</tr>
 </table>
