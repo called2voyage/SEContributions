@@ -56,4 +56,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>parenting.meta.stackexchange.com</td><td>4481</td>
 </tr>
+<tr>
+  <td>interpersonal.stackexchange.com</td><td>5130</td>
+</tr>
+<tr>
+  <td>interpersonal.meta.stackexchange.com</td><td>5130</td>
+</tr>
 </table>
