@@ -68,4 +68,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>rpg.meta.stackexchange.com</td><td>7890</td>
 </tr>
+<tr>
+  <td>aviation.stackexchange.com</td><td>44</td>
+</tr>
+<tr>
+  <td>aviation.meta.stackexchange.com</td><td>44</td>
+</tr>
 </table>
