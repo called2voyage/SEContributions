@@ -86,4 +86,7 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>philosophy.meta.stackexchange.com</td><td>3929</td>
 </tr>
+<tr>
+  <td>sports.stackexchange.com</td><td>2165</td>
+</tr>
 </table>
