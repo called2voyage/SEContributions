@@ -74,4 +74,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>aviation.meta.stackexchange.com</td><td>44</td>
 </tr>
+<tr>
+  <td>worldbuilding.stackexchange.com</td><td>13391</td>
+</tr>
+<tr>
+  <td>worldbuilding.meta.stackexchange.com</td><td>13391</td>
+</tr>
 </table>
