@@ -80,4 +80,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>worldbuilding.meta.stackexchange.com</td><td>13391</td>
 </tr>
+<tr>
+  <td>philosophy.stackexchange.com</td><td>3929</td>
+</tr>
+<tr>
+  <td>philosophy.meta.stackexchange.com</td><td>3929</td>
+</tr>
 </table>
