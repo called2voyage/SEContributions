@@ -92,4 +92,7 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>academia.stackexchange.com</td><td>44606</td>
 </tr>
+<tr>
+  <td>christianity.stackexchange.com</td><td>4943</td>
+</tr>
 </table>
