@@ -89,4 +89,7 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>sports.stackexchange.com</td><td>2165</td>
 </tr>
+<tr>
+  <td>academia.stackexchange.com</td><td>44606</td>
+</tr>
 </table>
