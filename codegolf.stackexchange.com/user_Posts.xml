@@ -1,0 +1,126 @@
+<?xml version="1.0" ?><posts>
+  <row AcceptedAnswerId="118137" AnswerCount="4" Body="&lt;p&gt;This is a variant on the self-replicating program, defined here as a program that outputs its source (or a &lt;a href=&quot;/questions/tagged/quine&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;quine&amp;#39;&quot; rel=&quot;tag&quot;&gt;quine&lt;/a&gt;). Below is an example of a self-replicating program in Python:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;s = 's = %r\nprint(s%%s)'
+print(s%s)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When run from a file, this script should output itself.&lt;/p&gt;
+&lt;p&gt;Instead of a self-replicating program, I want you to write a mutating, replicating program. This is a program that outputs something similar to its source, but with a mutation. The mutated source &lt;em&gt;must&lt;/em&gt; also be able to replicate, but it should change the functionality of the program in some way. Here is an example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;s = 's = %r\ns = s.replace(s[-17],str(int(s[-17])+222))\nprint(s%%s)'
+s = s.replace(s[-17],str(int(s[-17])+222))
+print(s%s)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When this Python script is run, it outputs the following program:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;s = 's = %r\ns = s.replace(s[-17],str(int(s[-17])+224224224))\nprint(s%%s)'
+s = s.replace(s[-17],str(int(s[-17])+224224224))
+print(s%s)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you repeat a number of times, you will see that it continues to mutate but remain functional.&lt;/p&gt;
+&lt;p&gt;Incorporating a raw dynamic environment variable in your code, like a comment with a timestamp, is boring. Don't do that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; For that matter, let's follow the standard quine rule of no input.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;/questions/tagged/code-golf&quot; class=&quot;post-tag&quot; title=&quot;show questions tagged &amp;#39;code-golf&amp;#39;&quot; rel=&quot;tag&quot;&gt;code-golf&lt;/a&gt; so the shortest in bytes wins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clarifications:&lt;/strong&gt; I've been asked to clarify, but without much information I'm not sure what needs clarifying. Here's my best shot:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each iteration should have source code that is different from the last.&lt;/li&gt;
+&lt;li&gt;The iteration must still run.&lt;/li&gt;
+&lt;li&gt;The iteration must still replicate according to the same rules.&lt;/li&gt;
+&lt;li&gt;Comments or strings can't be the only thing that changes. In &lt;a href=&quot;https://codegolf.stackexchange.com/a/118010/68623&quot;&gt;dzaima's answer&lt;/a&gt; the operations on the string are duplicated, not just the contents of the string--so that is valid.&lt;/li&gt;
+&lt;li&gt;Each iteration must be runnable in the same language you started in.&lt;/li&gt;
+&lt;/ul&gt;
+" CommentCount="7" CreationDate="2017-04-28T14:39:23.717" FavoriteCount="1" Id="117974" LastActivityDate="2017-04-30T05:05:09.527" LastEditDate="2017-04-28T17:48:08.233" LastEditorUserId="68623" OwnerUserId="68623" PostTypeId="1" Score="7" Tags="&lt;code-golf&gt;" Title="Write a mutating, replicating program" ViewCount="324"/>
+  <row Body="&lt;h1&gt;&lt;a href=&quot;https://github.com/dzaima/SOGL&quot; rel=&quot;nofollow noreferrer&quot;&gt;SOGL&lt;/a&gt;, 9 &lt;a href=&quot;https://github.com/dzaima/SOGL/blob/master/chartable.md&quot; rel=&quot;nofollow noreferrer&quot;&gt;bytes&lt;/a&gt;&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;:+q$o”q$o
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Explanation:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:+q$o”     push that string
+      q    output it in a new line without popping
+       $   push &quot;”&quot;
+        o  output that
+           implicitly output the original string (in a new line)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The iterations go as (one per line)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:+q$o”¶:+q$o
+:+q$o:+q$o”¶:+q$o:+q$o
+:+q$o:+q$o:+q$o:+q$o”¶:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o”¶:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o:+q$o
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and the next one is &lt;a href=&quot;https://pastebin.com/Bgdbdtjy&quot; rel=&quot;nofollow noreferrer&quot;&gt;31424 characters long&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first iteration is &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:+q$o”        push that string
+      ¶       no-op
+       :+     add the string to itself
+         q    output it in a newline without popping
+          $o  append &quot;”&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and the next:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:+q$o:+q$o”             push that string
+           ¶            no-op
+            :+          add the string to itself
+              q         output it in a newline without popping
+               $o       append &quot;”&quot;
+                 :+q$o  the same
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This should never break from what I can see (well except hitting javas string length limit or something), because only the last string is used and the rest of the code is just &lt;code&gt;multiply, output&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;note: newlines and &lt;code&gt;¶&lt;/code&gt; are completely interchangeable in SOGL.&lt;/p&gt;
+" CommentCount="2" CreationDate="2017-04-28T17:24:39.107" Id="118010" LastActivityDate="2017-04-28T17:33:44.523" LastEditDate="2017-04-28T17:33:44.523" LastEditorUserId="59183" OwnerUserId="59183" ParentId="117974" PostTypeId="2" Score="2"/>
+  <row Body="&lt;h1&gt;Pyth, 11 bytes&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;jN*2]&quot;jN*4[
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&quot;https://pyth.herokuapp.com/?code=.vw&amp;amp;input=jN%2a2%5D%22jN%2a4%5B&amp;amp;test_suite=1&amp;amp;test_suite_input=jN%2a2%5D%22jN%2a4%5B%0AjN%2a4%5B%22jN%2a4%5B%0AjN%2a4%5B%22jN%2a4%5B%22jN%2a4%5B%22jN%2a4%5B&amp;amp;debug=0&quot; rel=&quot;nofollow noreferrer&quot;&gt;Try it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tio.run/nexus/pyth#@5/lp2USrUR38v9/AA&quot; rel=&quot;nofollow noreferrer&quot;&gt;Try it online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gets exponentially longer. Based on &lt;a href=&quot;https://esolangs.org/wiki/Pyth#Quine&quot; rel=&quot;nofollow noreferrer&quot;&gt;this&lt;/a&gt; Pyth Quine.&lt;/p&gt;
+&lt;h2&gt;first 4 iterations&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;jN*2]&quot;jN*4[
+jN*4[&quot;jN*4[
+jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[
+jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Explanation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;jN*4]&quot;jN*4[
+     &quot;jN*4[                 # The String &quot;jN*4[&quot;
+    ]                       # Make it into a list with one element
+  *4                        # Quadruple that list
+jN                          # join on quote (N='&quot;')
+jN*4[&quot;jN*4[&quot;jN*4[&quot;jN*4[     
+                 &quot;jN*4[     # The string &quot;jN*4[&quot;
+                [           # List with the string: [&quot;jN*4[&quot;]
+              *4            # Quadruple that list
+            jN              # Join on quote
+     &quot;jN*4[&quot;                # The string &quot;jN*4[&quot;
+    [                       # Put both strings into a list
+  *4                        # Quadruple that list
+jN                          # join on quote (N='&quot;')
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;(I could probably prove this rigoriosly using induction, but I'm not in the mood for that.)
+This should (theoretically always work because) it's just even multiples of &lt;code&gt;jN*4[&quot;&lt;/code&gt;. Every second occurence of that sequence of characters is interpreted as a string because of the &lt;code&gt;&quot;&lt;/code&gt; of the previous one. The &lt;code&gt;[&lt;/code&gt; of the previous one then puts that string into a list together with what the next one produces. Then that list is repeated four times and joined to string with &lt;code&gt;&quot;&lt;/code&gt;.&lt;/p&gt;
+" CommentCount="2" CreationDate="2017-04-28T19:28:40.270" Id="118027" LastActivityDate="2017-04-29T10:27:25.270" LastEditDate="2017-04-29T10:27:25.270" LastEditorUserId="56557" OwnerUserId="56557" ParentId="117974" PostTypeId="2" Score="2"/>
+  <row Body="&lt;h1&gt;Python 2, 33 bytes&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;_='_=%r;print _%%_*2;';print _%_;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&quot;https://ideone.com/5Rvo5q&quot; rel=&quot;nofollow noreferrer&quot;&gt;Ideone&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Doubles in size. (This is technically only true from the third iteration onwards) Based on &lt;a href=&quot;https://stackoverflow.com/questions/6223285/shortest-python-quine&quot;&gt;this&lt;/a&gt; Quine. Similar to &lt;a href=&quot;https://codegolf.stackexchange.com/a/118027/56557&quot;&gt;my Pyth answer&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;iterations&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;_='_=%r;print _%%_*2;';print _%_;
+_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+_='_=%r;print _%%_*2;';print _%_*2;_='_=%r;print _%%_*2;';print _%_*2;
+&lt;/code&gt;&lt;/pre&gt;
+" CommentCount="0" CreationDate="2017-04-28T20:37:42.217" Id="118040" LastActivityDate="2017-04-28T20:44:52.847" LastEditDate="2017-04-28T20:44:52.847" LastEditorUserId="56557" OwnerUserId="56557" ParentId="117974" PostTypeId="2" Score="2"/>
+  <row Body="&lt;h1&gt;&lt;a href=&quot;https://github.com/DennisMitchell/jelly&quot; rel=&quot;nofollow noreferrer&quot;&gt;Jelly&lt;/a&gt;, 4 &lt;a href=&quot;https://github.com/DennisMitchell/jelly/wiki/Code-page&quot; rel=&quot;nofollow noreferrer&quot;&gt;bytes&lt;/a&gt;&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;⁾ṘȮṘ
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://tio.run/nexus/jelly#@/@ocd/DnTNOrAMS//8DAA&quot; rel=&quot;nofollow noreferrer&quot; title=&quot;Jelly – TIO Nexus&quot;&gt;Try it online!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Equivalent to the 5-byte: &lt;code&gt;“ṘȮ”Ṙ&lt;/code&gt;)&lt;/p&gt;
+&lt;p&gt;Exponentially spawns:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;“ṘȮ”ṘȮ
+“ṘȮ”ṘȮṘȮ
+“ṘȮ”ṘȮ“ṘȮ”ṘȮṘȮ
+“ṘȮ”ṘȮṘȮ“ṘȮ”ṘȮ“ṘȮ”ṘȮṘȮ
+“ṘȮ”ṘȮ“ṘȮ”ṘȮṘȮ“ṘȮ”ṘȮṘȮ“ṘȮ”ṘȮ“ṘȮ”ṘȮṘȮ
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Since &lt;code&gt;Ṙ&lt;/code&gt; is a monadic atom which prints a Jelly representation of its input and then yields it's input, and &lt;code&gt;Ȯ&lt;/code&gt; is a monadic atom which prints its input and yields it's input (neither printing any newlines), while &lt;code&gt;“...”&lt;/code&gt; defines a list of characters. So each &lt;code&gt;“ṘȮ”Ṙ&lt;/code&gt; prints &lt;code&gt;“ṘȮ”&lt;/code&gt; and yields to the following &lt;code&gt;Ȯ&lt;/code&gt; which prints &lt;code&gt;ṘȮ&lt;/code&gt; and yields... a trailing &lt;code&gt;Ȯ&lt;/code&gt; finally yields for the programs return value, which is implicitly printed, so the pattern will continue until resources no longer suffice.&lt;/p&gt;
+" CommentCount="0" CreationDate="2017-04-30T05:05:09.527" Id="118137" LastActivityDate="2017-04-30T05:05:09.527" OwnerUserId="53748" ParentId="117974" PostTypeId="2" Score="3"/>
+</posts>
