@@ -98,4 +98,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>codegolf.stackexchange.com</td><td>68623</td>
 </tr>
+<tr>
+  <td>cseducators.stackexchange.com</td><td>7</td>
+</tr>
+<tr>
+  <td>cseducators.meta.stackexchange.com</td><td>7</td>
+</tr>
 </table>
