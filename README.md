@@ -107,4 +107,7 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>linguistics.stackexchange.com</td><td>3382</td>
 </tr>
+<tr>
+  <td>puzzling.stackexchange.com</td><td>16885</td>
+</tr>
 </table>
