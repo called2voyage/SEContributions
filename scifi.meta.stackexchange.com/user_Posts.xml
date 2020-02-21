@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><posts>
+  <row AnswerCount="13" Body="&lt;p&gt;It's the time of the year again, namely it is December 2013, and so we shall now refresh our Community Promotion Ads for the new year.&lt;/p&gt;
+&lt;h3&gt;What are Community Promotion Ads?&lt;/h3&gt;
+&lt;p&gt;Community Promotion Ads are community-vetted advertisements that will show up on the main site, in the right sidebar. The purpose of this question is the vetting process. Images of the advertisements are provided, and community voting will enable the advertisements to be shown.&lt;/p&gt;
+&lt;h3&gt;Why do we have Community Promotion Ads?&lt;/h3&gt;
+&lt;p&gt;This is a method for the community to control what gets promoted to visitors on the site. For example, you might promote the following things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the site's twitter account&lt;/li&gt;
+&lt;li&gt;interesting articles or findings for the curious&lt;/li&gt;
+&lt;li&gt;cool Science Fiction or Fantasy events/conferences&lt;/li&gt;
+&lt;li&gt;anything else your community would genuinely be interested in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is for future visitors to find out about &lt;em&gt;the stuff your community deems important&lt;/em&gt;. This also serves as a way to promote information and resources that are &lt;em&gt;relevant to your own community's interests&lt;/em&gt;, both for those already in the community and those yet to join. &lt;/p&gt;
+&lt;h3&gt;Why do we reset the ads every year?&lt;/h3&gt;
+&lt;p&gt;Some services will maintain usefulness over the years, while other things will wane to allow for new faces to show up. Resetting the ads every year helps accommodate this, and allows old ads that have served their purpose to be cycled out for fresher ads for newer things. This helps keep the material in the ads relevant to not just the subject matter of the community, but to the current status of the community. We reset the ads once a year, every December.&lt;/p&gt;
+&lt;p&gt;The community promotion ads have no restrictions against reposting an ad from a previous cycle. If a particular service or ad is very valuable to the community and will continue to be so, it is a good idea to repost it. It may be helpful to give it a new face in the process, so as to prevent the imagery of the ad from getting stale after a year of exposure.&lt;/p&gt;
+&lt;h3&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;The answers you post to this question &lt;em&gt;must&lt;/em&gt; conform to the following rules, or they will be ignored. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;All answers should be in the exact form of:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[![Tagline to show on mouseover][1]][2]
+   [1]: http://image-url
+   [2]: http://clickthrough-url 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Please &lt;strong&gt;do not add anything else to the body of the post&lt;/strong&gt;. If you want to discuss something, do it in the comments.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The question must always be tagged with the magic &lt;a href=&quot;/questions/tagged/community-ads&quot; class=&quot;post-tag moderator-tag&quot; title=&quot;show questions tagged &amp;#39;community-ads&amp;#39;&quot; rel=&quot;tag&quot;&gt;community-ads&lt;/a&gt; tag. In addition to enabling the functionality of the advertisements, this tag also pre-fills the answer form with the above required form.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Image requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The image that you create must be &lt;strong&gt;220 x 250 pixels&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Must be hosted through our standard image uploader (imgur)&lt;/li&gt;
+&lt;li&gt;Must be GIF or PNG&lt;/li&gt;
+&lt;li&gt;No animated GIFs&lt;/li&gt;
+&lt;li&gt;Absolute limit on file size of 150 KB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Score Threshold&lt;/h3&gt;
+&lt;p&gt;There is a &lt;strong&gt;minimum score threshold&lt;/strong&gt; an answer must meet (currently &lt;strong&gt;6&lt;/strong&gt;) before it will be shown on the main site.&lt;/p&gt;
+&lt;p&gt;You can check out the ads that have met the threshold with basic click stats &lt;a href=&quot;https://scifi.meta.stackexchange.com/ads/display/3239&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+" ClosedDate="2015-01-01T03:12:28.507" CommentCount="0" CommunityOwnedDate="2013-12-06T11:48:29.853" CreationDate="2013-12-06T11:48:29.853" Id="3239" LastActivityDate="2014-11-21T16:38:41.053" LastEditDate="2017-03-16T15:46:23.323" LastEditorUserId="-1" OwnerUserId="2537" PostTypeId="1" Score="16" Tags="&lt;discussion&gt;&lt;community-ads&gt;" Title="Community Promotion Ads - 2014" ViewCount="684"/>
+  <row Body="&lt;p&gt;&lt;a href=&quot;https://astronomy.stackexchange.com/&quot;&gt;&lt;img src=&quot;https://i.stack.imgur.com/HQ5S2.png&quot; alt=&quot;Astronomy Stack Exchange&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+" CommentCount="1" CommunityOwnedDate="2013-12-10T15:41:03.137" CreationDate="2013-12-10T15:41:03.137" Id="3254" LastActivityDate="2013-12-10T15:41:03.137" LastEditDate="2017-04-13T12:59:06.177" LastEditorUserId="-1" OwnerUserId="15467" ParentId="3239" PostTypeId="2" Score="15"/>
+</posts>
