@@ -110,4 +110,10 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>puzzling.stackexchange.com</td><td>16885</td>
 </tr>
+<tr>
+  <td>scifi.stackexchange.com</td><td>15467</td>
+</tr>
+<tr>
+  <td>scifi.meta.stackexchange.com</td><td>15467</td>
+</tr>
 </table>
