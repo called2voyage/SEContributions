@@ -119,4 +119,7 @@ license, but if created prior to September 5, 2019 are licensed under CC BY-SA 3
 <tr>
   <td>workplace.stackexchange.com</td><td>9936</td>
 </tr>
+<tr>
+  <td>writing.stackexchange.com</td><td>4962</td>
+</tr>
 </table>
